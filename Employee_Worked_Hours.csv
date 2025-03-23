@@ -1,0 +1,2041 @@
+﻿employee number,last name,first name,Covered Period,No. of Hours Worked
+1,Garcia,Manuel III,Jun-19,162
+1,Garcia,Manuel III,Jul-19,165
+1,Garcia,Manuel III,Aug-19,150
+1,Garcia,Manuel III,Sep-19,153
+1,Garcia,Manuel III,Oct-19,153
+1,Garcia,Manuel III,Nov-19,157
+1,Garcia,Manuel III,Dec-19,159
+1,Garcia,Manuel III,Jan-20,169
+1,Garcia,Manuel III,Feb-20,168
+1,Garcia,Manuel III,Mar-20,154
+1,Garcia,Manuel III,Apr-20,156
+1,Garcia,Manuel III,May-20,162
+1,Garcia,Manuel III,Jun-20,151
+1,Garcia,Manuel III,Jul-20,156
+1,Garcia,Manuel III,Aug-20,157
+1,Garcia,Manuel III,Sep-20,164
+1,Garcia,Manuel III,Oct-20,167
+1,Garcia,Manuel III,Nov-20,155
+1,Garcia,Manuel III,Dec-20,163
+1,Garcia,Manuel III,Jan-21,158
+1,Garcia,Manuel III,Feb-21,159
+1,Garcia,Manuel III,Mar-21,170
+1,Garcia,Manuel III,Apr-21,169
+1,Garcia,Manuel III,May-21,166
+1,Garcia,Manuel III,Jun-21,169
+1,Garcia,Manuel III,Jul-21,155
+1,Garcia,Manuel III,Aug-21,165
+1,Garcia,Manuel III,Sep-21,165
+1,Garcia,Manuel III,Oct-21,150
+1,Garcia,Manuel III,Nov-21,168
+1,Garcia,Manuel III,Dec-21,153
+1,Garcia,Manuel III,Jan-22,167
+1,Garcia,Manuel III,Feb-22,169
+1,Garcia,Manuel III,Mar-22,169
+1,Garcia,Manuel III,Apr-22,169
+1,Garcia,Manuel III,May-22,164
+1,Garcia,Manuel III,Jun-22,157
+1,Garcia,Manuel III,Jul-22,150
+1,Garcia,Manuel III,Aug-22,151
+1,Garcia,Manuel III,Sep-22,159
+1,Garcia,Manuel III,Oct-22,150
+1,Garcia,Manuel III,Nov-22,160
+1,Garcia,Manuel III,Dec-22,170
+1,Garcia,Manuel III,Jan-23,153
+1,Garcia,Manuel III,Feb-23,161
+1,Garcia,Manuel III,Mar-23,168
+1,Garcia,Manuel III,Apr-23,152
+1,Garcia,Manuel III,May-23,150
+1,Garcia,Manuel III,Jun-23,150
+1,Garcia,Manuel III,Jul-23,154
+1,Garcia,Manuel III,Aug-23,155
+1,Garcia,Manuel III,Sep-23,156
+1,Garcia,Manuel III,Oct-23,158
+1,Garcia,Manuel III,Nov-23,170
+1,Garcia,Manuel III,Dec-23,167
+1,Garcia,Manuel III,Jan-24,165
+1,Garcia,Manuel III,Feb-24,154
+1,Garcia,Manuel III,Mar-24,159
+1,Garcia,Manuel III,Apr-24,160
+1,Garcia,Manuel III,May-24,151
+2,Lim,Antonio,Jun-19,151
+2,Lim,Antonio,Jul-19,157
+2,Lim,Antonio,Aug-19,159
+2,Lim,Antonio,Sep-19,153
+2,Lim,Antonio,Oct-19,156
+2,Lim,Antonio,Nov-19,161
+2,Lim,Antonio,Dec-19,164
+2,Lim,Antonio,Jan-20,168
+2,Lim,Antonio,Feb-20,150
+2,Lim,Antonio,Mar-20,164
+2,Lim,Antonio,Apr-20,153
+2,Lim,Antonio,May-20,162
+2,Lim,Antonio,Jun-20,160
+2,Lim,Antonio,Jul-20,170
+2,Lim,Antonio,Aug-20,161
+2,Lim,Antonio,Sep-20,154
+2,Lim,Antonio,Oct-20,156
+2,Lim,Antonio,Nov-20,154
+2,Lim,Antonio,Dec-20,165
+2,Lim,Antonio,Jan-21,170
+2,Lim,Antonio,Feb-21,153
+2,Lim,Antonio,Mar-21,162
+2,Lim,Antonio,Apr-21,154
+2,Lim,Antonio,May-21,170
+2,Lim,Antonio,Jun-21,158
+2,Lim,Antonio,Jul-21,164
+2,Lim,Antonio,Aug-21,165
+2,Lim,Antonio,Sep-21,170
+2,Lim,Antonio,Oct-21,153
+2,Lim,Antonio,Nov-21,165
+2,Lim,Antonio,Dec-21,163
+2,Lim,Antonio,Jan-22,166
+2,Lim,Antonio,Feb-22,167
+2,Lim,Antonio,Mar-22,155
+2,Lim,Antonio,Apr-22,159
+2,Lim,Antonio,May-22,153
+2,Lim,Antonio,Jun-22,150
+2,Lim,Antonio,Jul-22,155
+2,Lim,Antonio,Aug-22,150
+2,Lim,Antonio,Sep-22,167
+2,Lim,Antonio,Oct-22,168
+2,Lim,Antonio,Nov-22,154
+2,Lim,Antonio,Dec-22,152
+2,Lim,Antonio,Jan-23,166
+2,Lim,Antonio,Feb-23,153
+2,Lim,Antonio,Mar-23,152
+2,Lim,Antonio,Apr-23,160
+2,Lim,Antonio,May-23,163
+2,Lim,Antonio,Jun-23,166
+2,Lim,Antonio,Jul-23,157
+2,Lim,Antonio,Aug-23,159
+2,Lim,Antonio,Sep-23,150
+2,Lim,Antonio,Oct-23,160
+2,Lim,Antonio,Nov-23,168
+2,Lim,Antonio,Dec-23,161
+2,Lim,Antonio,Jan-24,152
+2,Lim,Antonio,Feb-24,152
+2,Lim,Antonio,Mar-24,153
+2,Lim,Antonio,Apr-24,153
+2,Lim,Antonio,May-24,168
+3,Aquino,Bianca Sofia ,Jun-19,164
+3,Aquino,Bianca Sofia ,Jul-19,153
+3,Aquino,Bianca Sofia ,Aug-19,170
+3,Aquino,Bianca Sofia ,Sep-19,167
+3,Aquino,Bianca Sofia ,Oct-19,168
+3,Aquino,Bianca Sofia ,Nov-19,164
+3,Aquino,Bianca Sofia ,Dec-19,159
+3,Aquino,Bianca Sofia ,Jan-20,151
+3,Aquino,Bianca Sofia ,Feb-20,154
+3,Aquino,Bianca Sofia ,Mar-20,160
+3,Aquino,Bianca Sofia ,Apr-20,161
+3,Aquino,Bianca Sofia ,May-20,158
+3,Aquino,Bianca Sofia ,Jun-20,161
+3,Aquino,Bianca Sofia ,Jul-20,152
+3,Aquino,Bianca Sofia ,Aug-20,169
+3,Aquino,Bianca Sofia ,Sep-20,166
+3,Aquino,Bianca Sofia ,Oct-20,150
+3,Aquino,Bianca Sofia ,Nov-20,150
+3,Aquino,Bianca Sofia ,Dec-20,156
+3,Aquino,Bianca Sofia ,Jan-21,169
+3,Aquino,Bianca Sofia ,Feb-21,164
+3,Aquino,Bianca Sofia ,Mar-21,160
+3,Aquino,Bianca Sofia ,Apr-21,169
+3,Aquino,Bianca Sofia ,May-21,158
+3,Aquino,Bianca Sofia ,Jun-21,163
+3,Aquino,Bianca Sofia ,Jul-21,152
+3,Aquino,Bianca Sofia ,Aug-21,153
+3,Aquino,Bianca Sofia ,Sep-21,152
+3,Aquino,Bianca Sofia ,Oct-21,161
+3,Aquino,Bianca Sofia ,Nov-21,163
+3,Aquino,Bianca Sofia ,Dec-21,166
+3,Aquino,Bianca Sofia ,Jan-22,158
+3,Aquino,Bianca Sofia ,Feb-22,158
+3,Aquino,Bianca Sofia ,Mar-22,169
+3,Aquino,Bianca Sofia ,Apr-22,158
+3,Aquino,Bianca Sofia ,May-22,152
+3,Aquino,Bianca Sofia ,Jun-22,170
+3,Aquino,Bianca Sofia ,Jul-22,153
+3,Aquino,Bianca Sofia ,Aug-22,162
+3,Aquino,Bianca Sofia ,Sep-22,164
+3,Aquino,Bianca Sofia ,Oct-22,150
+3,Aquino,Bianca Sofia ,Nov-22,154
+3,Aquino,Bianca Sofia ,Dec-22,153
+3,Aquino,Bianca Sofia ,Jan-23,163
+3,Aquino,Bianca Sofia ,Feb-23,161
+3,Aquino,Bianca Sofia ,Mar-23,163
+3,Aquino,Bianca Sofia ,Apr-23,163
+3,Aquino,Bianca Sofia ,May-23,161
+3,Aquino,Bianca Sofia ,Jun-23,166
+3,Aquino,Bianca Sofia ,Jul-23,164
+3,Aquino,Bianca Sofia ,Aug-23,166
+3,Aquino,Bianca Sofia ,Sep-23,169
+3,Aquino,Bianca Sofia ,Oct-23,151
+3,Aquino,Bianca Sofia ,Nov-23,158
+3,Aquino,Bianca Sofia ,Dec-23,150
+3,Aquino,Bianca Sofia ,Jan-24,154
+3,Aquino,Bianca Sofia ,Feb-24,156
+3,Aquino,Bianca Sofia ,Mar-24,163
+3,Aquino,Bianca Sofia ,Apr-24,157
+3,Aquino,Bianca Sofia ,May-24,165
+4,Reyes,Isabella,Jun-19,159
+4,Reyes,Isabella,Jul-19,168
+4,Reyes,Isabella,Aug-19,158
+4,Reyes,Isabella,Sep-19,165
+4,Reyes,Isabella,Oct-19,161
+4,Reyes,Isabella,Nov-19,156
+4,Reyes,Isabella,Dec-19,165
+4,Reyes,Isabella,Jan-20,151
+4,Reyes,Isabella,Feb-20,162
+4,Reyes,Isabella,Mar-20,153
+4,Reyes,Isabella,Apr-20,168
+4,Reyes,Isabella,May-20,165
+4,Reyes,Isabella,Jun-20,153
+4,Reyes,Isabella,Jul-20,160
+4,Reyes,Isabella,Aug-20,162
+4,Reyes,Isabella,Sep-20,156
+4,Reyes,Isabella,Oct-20,153
+4,Reyes,Isabella,Nov-20,155
+4,Reyes,Isabella,Dec-20,161
+4,Reyes,Isabella,Jan-21,150
+4,Reyes,Isabella,Feb-21,161
+4,Reyes,Isabella,Mar-21,158
+4,Reyes,Isabella,Apr-21,170
+4,Reyes,Isabella,May-21,160
+4,Reyes,Isabella,Jun-21,161
+4,Reyes,Isabella,Jul-21,155
+4,Reyes,Isabella,Aug-21,165
+4,Reyes,Isabella,Sep-21,158
+4,Reyes,Isabella,Oct-21,152
+4,Reyes,Isabella,Nov-21,169
+4,Reyes,Isabella,Dec-21,169
+4,Reyes,Isabella,Jan-22,164
+4,Reyes,Isabella,Feb-22,170
+4,Reyes,Isabella,Mar-22,153
+4,Reyes,Isabella,Apr-22,153
+4,Reyes,Isabella,May-22,157
+4,Reyes,Isabella,Jun-22,159
+4,Reyes,Isabella,Jul-22,159
+4,Reyes,Isabella,Aug-22,159
+4,Reyes,Isabella,Sep-22,153
+4,Reyes,Isabella,Oct-22,164
+4,Reyes,Isabella,Nov-22,168
+4,Reyes,Isabella,Dec-22,162
+4,Reyes,Isabella,Jan-23,153
+4,Reyes,Isabella,Feb-23,159
+4,Reyes,Isabella,Mar-23,160
+4,Reyes,Isabella,Apr-23,163
+4,Reyes,Isabella,May-23,157
+4,Reyes,Isabella,Jun-23,157
+4,Reyes,Isabella,Jul-23,151
+4,Reyes,Isabella,Aug-23,162
+4,Reyes,Isabella,Sep-23,152
+4,Reyes,Isabella,Oct-23,152
+4,Reyes,Isabella,Nov-23,151
+4,Reyes,Isabella,Dec-23,155
+4,Reyes,Isabella,Jan-24,158
+4,Reyes,Isabella,Feb-24,154
+4,Reyes,Isabella,Mar-24,150
+4,Reyes,Isabella,Apr-24,161
+4,Reyes,Isabella,May-24,152
+5,Hernandez,Eduard,Jun-19,155
+5,Hernandez,Eduard,Jul-19,166
+5,Hernandez,Eduard,Aug-19,158
+5,Hernandez,Eduard,Sep-19,151
+5,Hernandez,Eduard,Oct-19,167
+5,Hernandez,Eduard,Nov-19,166
+5,Hernandez,Eduard,Dec-19,153
+5,Hernandez,Eduard,Jan-20,158
+5,Hernandez,Eduard,Feb-20,170
+5,Hernandez,Eduard,Mar-20,154
+5,Hernandez,Eduard,Apr-20,166
+5,Hernandez,Eduard,May-20,153
+5,Hernandez,Eduard,Jun-20,157
+5,Hernandez,Eduard,Jul-20,153
+5,Hernandez,Eduard,Aug-20,168
+5,Hernandez,Eduard,Sep-20,167
+5,Hernandez,Eduard,Oct-20,151
+5,Hernandez,Eduard,Nov-20,168
+5,Hernandez,Eduard,Dec-20,167
+5,Hernandez,Eduard,Jan-21,170
+5,Hernandez,Eduard,Feb-21,152
+5,Hernandez,Eduard,Mar-21,155
+5,Hernandez,Eduard,Apr-21,155
+5,Hernandez,Eduard,May-21,162
+5,Hernandez,Eduard,Jun-21,162
+5,Hernandez,Eduard,Jul-21,152
+5,Hernandez,Eduard,Aug-21,165
+5,Hernandez,Eduard,Sep-21,157
+5,Hernandez,Eduard,Oct-21,157
+5,Hernandez,Eduard,Nov-21,161
+5,Hernandez,Eduard,Dec-21,167
+5,Hernandez,Eduard,Jan-22,156
+5,Hernandez,Eduard,Feb-22,157
+5,Hernandez,Eduard,Mar-22,168
+5,Hernandez,Eduard,Apr-22,161
+5,Hernandez,Eduard,May-22,169
+5,Hernandez,Eduard,Jun-22,167
+5,Hernandez,Eduard,Jul-22,159
+5,Hernandez,Eduard,Aug-22,164
+5,Hernandez,Eduard,Sep-22,159
+5,Hernandez,Eduard,Oct-22,168
+5,Hernandez,Eduard,Nov-22,150
+5,Hernandez,Eduard,Dec-22,159
+5,Hernandez,Eduard,Jan-23,161
+5,Hernandez,Eduard,Feb-23,167
+5,Hernandez,Eduard,Mar-23,159
+5,Hernandez,Eduard,Apr-23,150
+5,Hernandez,Eduard,May-23,166
+5,Hernandez,Eduard,Jun-23,160
+5,Hernandez,Eduard,Jul-23,154
+5,Hernandez,Eduard,Aug-23,170
+5,Hernandez,Eduard,Sep-23,153
+5,Hernandez,Eduard,Oct-23,169
+5,Hernandez,Eduard,Nov-23,158
+5,Hernandez,Eduard,Dec-23,164
+5,Hernandez,Eduard,Jan-24,150
+5,Hernandez,Eduard,Feb-24,169
+5,Hernandez,Eduard,Mar-24,158
+5,Hernandez,Eduard,Apr-24,157
+5,Hernandez,Eduard,May-24,163
+6,Villanueva,Andrea Mae,Jun-19,167
+6,Villanueva,Andrea Mae,Jul-19,170
+6,Villanueva,Andrea Mae,Aug-19,150
+6,Villanueva,Andrea Mae,Sep-19,161
+6,Villanueva,Andrea Mae,Oct-19,154
+6,Villanueva,Andrea Mae,Nov-19,150
+6,Villanueva,Andrea Mae,Dec-19,160
+6,Villanueva,Andrea Mae,Jan-20,164
+6,Villanueva,Andrea Mae,Feb-20,170
+6,Villanueva,Andrea Mae,Mar-20,168
+6,Villanueva,Andrea Mae,Apr-20,154
+6,Villanueva,Andrea Mae,May-20,153
+6,Villanueva,Andrea Mae,Jun-20,169
+6,Villanueva,Andrea Mae,Jul-20,157
+6,Villanueva,Andrea Mae,Aug-20,158
+6,Villanueva,Andrea Mae,Sep-20,163
+6,Villanueva,Andrea Mae,Oct-20,155
+6,Villanueva,Andrea Mae,Nov-20,150
+6,Villanueva,Andrea Mae,Dec-20,158
+6,Villanueva,Andrea Mae,Jan-21,165
+6,Villanueva,Andrea Mae,Feb-21,165
+6,Villanueva,Andrea Mae,Mar-21,161
+6,Villanueva,Andrea Mae,Apr-21,154
+6,Villanueva,Andrea Mae,May-21,157
+6,Villanueva,Andrea Mae,Jun-21,163
+6,Villanueva,Andrea Mae,Jul-21,160
+6,Villanueva,Andrea Mae,Aug-21,170
+6,Villanueva,Andrea Mae,Sep-21,164
+6,Villanueva,Andrea Mae,Oct-21,167
+6,Villanueva,Andrea Mae,Nov-21,169
+6,Villanueva,Andrea Mae,Dec-21,153
+6,Villanueva,Andrea Mae,Jan-22,159
+6,Villanueva,Andrea Mae,Feb-22,168
+6,Villanueva,Andrea Mae,Mar-22,152
+6,Villanueva,Andrea Mae,Apr-22,169
+6,Villanueva,Andrea Mae,May-22,161
+6,Villanueva,Andrea Mae,Jun-22,168
+6,Villanueva,Andrea Mae,Jul-22,163
+6,Villanueva,Andrea Mae,Aug-22,151
+6,Villanueva,Andrea Mae,Sep-22,156
+6,Villanueva,Andrea Mae,Oct-22,160
+6,Villanueva,Andrea Mae,Nov-22,166
+6,Villanueva,Andrea Mae,Dec-22,166
+6,Villanueva,Andrea Mae,Jan-23,153
+6,Villanueva,Andrea Mae,Feb-23,167
+6,Villanueva,Andrea Mae,Mar-23,160
+6,Villanueva,Andrea Mae,Apr-23,159
+6,Villanueva,Andrea Mae,May-23,162
+6,Villanueva,Andrea Mae,Jun-23,163
+6,Villanueva,Andrea Mae,Jul-23,156
+6,Villanueva,Andrea Mae,Aug-23,156
+6,Villanueva,Andrea Mae,Sep-23,157
+6,Villanueva,Andrea Mae,Oct-23,158
+6,Villanueva,Andrea Mae,Nov-23,163
+6,Villanueva,Andrea Mae,Dec-23,157
+6,Villanueva,Andrea Mae,Jan-24,166
+6,Villanueva,Andrea Mae,Feb-24,165
+6,Villanueva,Andrea Mae,Mar-24,158
+6,Villanueva,Andrea Mae,Apr-24,153
+6,Villanueva,Andrea Mae,May-24,156
+7,San Jose,Brad,Jun-19,167
+7,San Jose,Brad,Jul-19,157
+7,San Jose,Brad,Aug-19,170
+7,San Jose,Brad,Sep-19,152
+7,San Jose,Brad,Oct-19,166
+7,San Jose,Brad,Nov-19,168
+7,San Jose,Brad,Dec-19,163
+7,San Jose,Brad,Jan-20,154
+7,San Jose,Brad,Feb-20,154
+7,San Jose,Brad,Mar-20,162
+7,San Jose,Brad,Apr-20,167
+7,San Jose,Brad,May-20,170
+7,San Jose,Brad,Jun-20,151
+7,San Jose,Brad,Jul-20,155
+7,San Jose,Brad,Aug-20,151
+7,San Jose,Brad,Sep-20,169
+7,San Jose,Brad,Oct-20,169
+7,San Jose,Brad,Nov-20,157
+7,San Jose,Brad,Dec-20,159
+7,San Jose,Brad,Jan-21,167
+7,San Jose,Brad,Feb-21,159
+7,San Jose,Brad,Mar-21,150
+7,San Jose,Brad,Apr-21,169
+7,San Jose,Brad,May-21,154
+7,San Jose,Brad,Jun-21,167
+7,San Jose,Brad,Jul-21,170
+7,San Jose,Brad,Aug-21,166
+7,San Jose,Brad,Sep-21,153
+7,San Jose,Brad,Oct-21,160
+7,San Jose,Brad,Nov-21,151
+7,San Jose,Brad,Dec-21,170
+7,San Jose,Brad,Jan-22,154
+7,San Jose,Brad,Feb-22,154
+7,San Jose,Brad,Mar-22,166
+7,San Jose,Brad,Apr-22,166
+7,San Jose,Brad,May-22,165
+7,San Jose,Brad,Jun-22,160
+7,San Jose,Brad,Jul-22,163
+7,San Jose,Brad,Aug-22,158
+7,San Jose,Brad,Sep-22,161
+7,San Jose,Brad,Oct-22,170
+7,San Jose,Brad,Nov-22,156
+7,San Jose,Brad,Dec-22,159
+7,San Jose,Brad,Jan-23,165
+7,San Jose,Brad,Feb-23,153
+7,San Jose,Brad,Mar-23,169
+7,San Jose,Brad,Apr-23,162
+7,San Jose,Brad,May-23,168
+7,San Jose,Brad,Jun-23,167
+7,San Jose,Brad,Jul-23,160
+7,San Jose,Brad,Aug-23,152
+7,San Jose,Brad,Sep-23,151
+7,San Jose,Brad,Oct-23,161
+7,San Jose,Brad,Nov-23,153
+7,San Jose,Brad,Dec-23,162
+7,San Jose,Brad,Jan-24,154
+7,San Jose,Brad,Feb-24,151
+7,San Jose,Brad,Mar-24,167
+7,San Jose,Brad,Apr-24,150
+7,San Jose,Brad,May-24,157
+8,Romualdez,Alice,Jun-19,154
+8,Romualdez,Alice,Jul-19,153
+8,Romualdez,Alice,Aug-19,155
+8,Romualdez,Alice,Sep-19,156
+8,Romualdez,Alice,Oct-19,153
+8,Romualdez,Alice,Nov-19,152
+8,Romualdez,Alice,Dec-19,158
+8,Romualdez,Alice,Jan-20,151
+8,Romualdez,Alice,Feb-20,154
+8,Romualdez,Alice,Mar-20,150
+8,Romualdez,Alice,Apr-20,163
+8,Romualdez,Alice,May-20,169
+8,Romualdez,Alice,Jun-20,159
+8,Romualdez,Alice,Jul-20,155
+8,Romualdez,Alice,Aug-20,151
+8,Romualdez,Alice,Sep-20,157
+8,Romualdez,Alice,Oct-20,158
+8,Romualdez,Alice,Nov-20,170
+8,Romualdez,Alice,Dec-20,157
+8,Romualdez,Alice,Jan-21,153
+8,Romualdez,Alice,Feb-21,162
+8,Romualdez,Alice,Mar-21,153
+8,Romualdez,Alice,Apr-21,156
+8,Romualdez,Alice,May-21,170
+8,Romualdez,Alice,Jun-21,157
+8,Romualdez,Alice,Jul-21,169
+8,Romualdez,Alice,Aug-21,150
+8,Romualdez,Alice,Sep-21,155
+8,Romualdez,Alice,Oct-21,161
+8,Romualdez,Alice,Nov-21,159
+8,Romualdez,Alice,Dec-21,169
+8,Romualdez,Alice,Jan-22,157
+8,Romualdez,Alice,Feb-22,155
+8,Romualdez,Alice,Mar-22,158
+8,Romualdez,Alice,Apr-22,161
+8,Romualdez,Alice,May-22,164
+8,Romualdez,Alice,Jun-22,150
+8,Romualdez,Alice,Jul-22,158
+8,Romualdez,Alice,Aug-22,169
+8,Romualdez,Alice,Sep-22,156
+8,Romualdez,Alice,Oct-22,160
+8,Romualdez,Alice,Nov-22,169
+8,Romualdez,Alice,Dec-22,152
+8,Romualdez,Alice,Jan-23,150
+8,Romualdez,Alice,Feb-23,169
+8,Romualdez,Alice,Mar-23,164
+8,Romualdez,Alice,Apr-23,150
+8,Romualdez,Alice,May-23,169
+8,Romualdez,Alice,Jun-23,156
+8,Romualdez,Alice,Jul-23,151
+8,Romualdez,Alice,Aug-23,162
+8,Romualdez,Alice,Sep-23,168
+8,Romualdez,Alice,Oct-23,163
+8,Romualdez,Alice,Nov-23,159
+8,Romualdez,Alice,Dec-23,154
+8,Romualdez,Alice,Jan-24,167
+8,Romualdez,Alice,Feb-24,153
+8,Romualdez,Alice,Mar-24,152
+8,Romualdez,Alice,Apr-24,170
+8,Romualdez,Alice,May-24,163
+9,Atienza,Rosie,Jun-19,165
+9,Atienza,Rosie,Jul-19,154
+9,Atienza,Rosie,Aug-19,159
+9,Atienza,Rosie,Sep-19,154
+9,Atienza,Rosie,Oct-19,167
+9,Atienza,Rosie,Nov-19,168
+9,Atienza,Rosie,Dec-19,163
+9,Atienza,Rosie,Jan-20,163
+9,Atienza,Rosie,Feb-20,152
+9,Atienza,Rosie,Mar-20,153
+9,Atienza,Rosie,Apr-20,159
+9,Atienza,Rosie,May-20,162
+9,Atienza,Rosie,Jun-20,165
+9,Atienza,Rosie,Jul-20,152
+9,Atienza,Rosie,Aug-20,169
+9,Atienza,Rosie,Sep-20,156
+9,Atienza,Rosie,Oct-20,164
+9,Atienza,Rosie,Nov-20,166
+9,Atienza,Rosie,Dec-20,165
+9,Atienza,Rosie,Jan-21,158
+9,Atienza,Rosie,Feb-21,150
+9,Atienza,Rosie,Mar-21,160
+9,Atienza,Rosie,Apr-21,161
+9,Atienza,Rosie,May-21,163
+9,Atienza,Rosie,Jun-21,157
+9,Atienza,Rosie,Jul-21,156
+9,Atienza,Rosie,Aug-21,163
+9,Atienza,Rosie,Sep-21,165
+9,Atienza,Rosie,Oct-21,159
+9,Atienza,Rosie,Nov-21,156
+9,Atienza,Rosie,Dec-21,161
+9,Atienza,Rosie,Jan-22,168
+9,Atienza,Rosie,Feb-22,157
+9,Atienza,Rosie,Mar-22,151
+9,Atienza,Rosie,Apr-22,159
+9,Atienza,Rosie,May-22,152
+9,Atienza,Rosie,Jun-22,168
+9,Atienza,Rosie,Jul-22,164
+9,Atienza,Rosie,Aug-22,155
+9,Atienza,Rosie,Sep-22,154
+9,Atienza,Rosie,Oct-22,168
+9,Atienza,Rosie,Nov-22,164
+9,Atienza,Rosie,Dec-22,168
+9,Atienza,Rosie,Jan-23,151
+9,Atienza,Rosie,Feb-23,162
+9,Atienza,Rosie,Mar-23,150
+9,Atienza,Rosie,Apr-23,159
+9,Atienza,Rosie,May-23,166
+9,Atienza,Rosie,Jun-23,152
+9,Atienza,Rosie,Jul-23,158
+9,Atienza,Rosie,Aug-23,169
+9,Atienza,Rosie,Sep-23,160
+9,Atienza,Rosie,Oct-23,166
+9,Atienza,Rosie,Nov-23,151
+9,Atienza,Rosie,Dec-23,150
+9,Atienza,Rosie,Jan-24,155
+9,Atienza,Rosie,Feb-24,152
+9,Atienza,Rosie,Mar-24,165
+9,Atienza,Rosie,Apr-24,153
+9,Atienza,Rosie,May-24,164
+10,Alvaro,Roderick,Jun-19,155
+10,Alvaro,Roderick,Jul-19,161
+10,Alvaro,Roderick,Aug-19,169
+10,Alvaro,Roderick,Sep-19,156
+10,Alvaro,Roderick,Oct-19,170
+10,Alvaro,Roderick,Nov-19,156
+10,Alvaro,Roderick,Dec-19,169
+10,Alvaro,Roderick,Jan-20,156
+10,Alvaro,Roderick,Feb-20,152
+10,Alvaro,Roderick,Mar-20,156
+10,Alvaro,Roderick,Apr-20,155
+10,Alvaro,Roderick,May-20,155
+10,Alvaro,Roderick,Jun-20,163
+10,Alvaro,Roderick,Jul-20,159
+10,Alvaro,Roderick,Aug-20,154
+10,Alvaro,Roderick,Sep-20,163
+10,Alvaro,Roderick,Oct-20,167
+10,Alvaro,Roderick,Nov-20,153
+10,Alvaro,Roderick,Dec-20,163
+10,Alvaro,Roderick,Jan-21,169
+10,Alvaro,Roderick,Feb-21,158
+10,Alvaro,Roderick,Mar-21,163
+10,Alvaro,Roderick,Apr-21,155
+10,Alvaro,Roderick,May-21,166
+10,Alvaro,Roderick,Jun-21,164
+10,Alvaro,Roderick,Jul-21,155
+10,Alvaro,Roderick,Aug-21,151
+10,Alvaro,Roderick,Sep-21,155
+10,Alvaro,Roderick,Oct-21,156
+10,Alvaro,Roderick,Nov-21,162
+10,Alvaro,Roderick,Dec-21,160
+10,Alvaro,Roderick,Jan-22,164
+10,Alvaro,Roderick,Feb-22,158
+10,Alvaro,Roderick,Mar-22,157
+10,Alvaro,Roderick,Apr-22,163
+10,Alvaro,Roderick,May-22,155
+10,Alvaro,Roderick,Jun-22,165
+10,Alvaro,Roderick,Jul-22,160
+10,Alvaro,Roderick,Aug-22,153
+10,Alvaro,Roderick,Sep-22,160
+10,Alvaro,Roderick,Oct-22,168
+10,Alvaro,Roderick,Nov-22,153
+10,Alvaro,Roderick,Dec-22,164
+10,Alvaro,Roderick,Jan-23,168
+10,Alvaro,Roderick,Feb-23,155
+10,Alvaro,Roderick,Mar-23,154
+10,Alvaro,Roderick,Apr-23,167
+10,Alvaro,Roderick,May-23,155
+10,Alvaro,Roderick,Jun-23,153
+10,Alvaro,Roderick,Jul-23,155
+10,Alvaro,Roderick,Aug-23,158
+10,Alvaro,Roderick,Sep-23,154
+10,Alvaro,Roderick,Oct-23,167
+10,Alvaro,Roderick,Nov-23,151
+10,Alvaro,Roderick,Dec-23,168
+10,Alvaro,Roderick,Jan-24,151
+10,Alvaro,Roderick,Feb-24,164
+10,Alvaro,Roderick,Mar-24,167
+10,Alvaro,Roderick,Apr-24,157
+10,Alvaro,Roderick,May-24,161
+11,Salcedo,Anthony,Jun-19,164
+11,Salcedo,Anthony,Jul-19,166
+11,Salcedo,Anthony,Aug-19,170
+11,Salcedo,Anthony,Sep-19,151
+11,Salcedo,Anthony,Oct-19,167
+11,Salcedo,Anthony,Nov-19,162
+11,Salcedo,Anthony,Dec-19,164
+11,Salcedo,Anthony,Jan-20,150
+11,Salcedo,Anthony,Feb-20,152
+11,Salcedo,Anthony,Mar-20,169
+11,Salcedo,Anthony,Apr-20,164
+11,Salcedo,Anthony,May-20,168
+11,Salcedo,Anthony,Jun-20,161
+11,Salcedo,Anthony,Jul-20,170
+11,Salcedo,Anthony,Aug-20,159
+11,Salcedo,Anthony,Sep-20,164
+11,Salcedo,Anthony,Oct-20,150
+11,Salcedo,Anthony,Nov-20,162
+11,Salcedo,Anthony,Dec-20,159
+11,Salcedo,Anthony,Jan-21,168
+11,Salcedo,Anthony,Feb-21,154
+11,Salcedo,Anthony,Mar-21,157
+11,Salcedo,Anthony,Apr-21,153
+11,Salcedo,Anthony,May-21,166
+11,Salcedo,Anthony,Jun-21,162
+11,Salcedo,Anthony,Jul-21,155
+11,Salcedo,Anthony,Aug-21,170
+11,Salcedo,Anthony,Sep-21,163
+11,Salcedo,Anthony,Oct-21,166
+11,Salcedo,Anthony,Nov-21,163
+11,Salcedo,Anthony,Dec-21,168
+11,Salcedo,Anthony,Jan-22,169
+11,Salcedo,Anthony,Feb-22,167
+11,Salcedo,Anthony,Mar-22,157
+11,Salcedo,Anthony,Apr-22,167
+11,Salcedo,Anthony,May-22,164
+11,Salcedo,Anthony,Jun-22,153
+11,Salcedo,Anthony,Jul-22,160
+11,Salcedo,Anthony,Aug-22,170
+11,Salcedo,Anthony,Sep-22,160
+11,Salcedo,Anthony,Oct-22,151
+11,Salcedo,Anthony,Nov-22,170
+11,Salcedo,Anthony,Dec-22,166
+11,Salcedo,Anthony,Jan-23,160
+11,Salcedo,Anthony,Feb-23,168
+11,Salcedo,Anthony,Mar-23,170
+11,Salcedo,Anthony,Apr-23,166
+11,Salcedo,Anthony,May-23,152
+11,Salcedo,Anthony,Jun-23,156
+11,Salcedo,Anthony,Jul-23,159
+11,Salcedo,Anthony,Aug-23,152
+11,Salcedo,Anthony,Sep-23,170
+11,Salcedo,Anthony,Oct-23,162
+11,Salcedo,Anthony,Nov-23,159
+11,Salcedo,Anthony,Dec-23,154
+11,Salcedo,Anthony,Jan-24,154
+11,Salcedo,Anthony,Feb-24,159
+11,Salcedo,Anthony,Mar-24,160
+11,Salcedo,Anthony,Apr-24,162
+11,Salcedo,Anthony,May-24,158
+12,Lopez,Josie,Jun-19,151
+12,Lopez,Josie,Jul-19,155
+12,Lopez,Josie,Aug-19,157
+12,Lopez,Josie,Sep-19,150
+12,Lopez,Josie,Oct-19,151
+12,Lopez,Josie,Nov-19,153
+12,Lopez,Josie,Dec-19,168
+12,Lopez,Josie,Jan-20,168
+12,Lopez,Josie,Feb-20,170
+12,Lopez,Josie,Mar-20,158
+12,Lopez,Josie,Apr-20,168
+12,Lopez,Josie,May-20,157
+12,Lopez,Josie,Jun-20,160
+12,Lopez,Josie,Jul-20,168
+12,Lopez,Josie,Aug-20,153
+12,Lopez,Josie,Sep-20,162
+12,Lopez,Josie,Oct-20,169
+12,Lopez,Josie,Nov-20,163
+12,Lopez,Josie,Dec-20,150
+12,Lopez,Josie,Jan-21,160
+12,Lopez,Josie,Feb-21,153
+12,Lopez,Josie,Mar-21,156
+12,Lopez,Josie,Apr-21,153
+12,Lopez,Josie,May-21,156
+12,Lopez,Josie,Jun-21,169
+12,Lopez,Josie,Jul-21,152
+12,Lopez,Josie,Aug-21,168
+12,Lopez,Josie,Sep-21,168
+12,Lopez,Josie,Oct-21,156
+12,Lopez,Josie,Nov-21,170
+12,Lopez,Josie,Dec-21,161
+12,Lopez,Josie,Jan-22,150
+12,Lopez,Josie,Feb-22,154
+12,Lopez,Josie,Mar-22,163
+12,Lopez,Josie,Apr-22,159
+12,Lopez,Josie,May-22,152
+12,Lopez,Josie,Jun-22,151
+12,Lopez,Josie,Jul-22,162
+12,Lopez,Josie,Aug-22,165
+12,Lopez,Josie,Sep-22,151
+12,Lopez,Josie,Oct-22,162
+12,Lopez,Josie,Nov-22,155
+12,Lopez,Josie,Dec-22,156
+12,Lopez,Josie,Jan-23,151
+12,Lopez,Josie,Feb-23,160
+12,Lopez,Josie,Mar-23,156
+12,Lopez,Josie,Apr-23,156
+12,Lopez,Josie,May-23,156
+12,Lopez,Josie,Jun-23,156
+12,Lopez,Josie,Jul-23,161
+12,Lopez,Josie,Aug-23,168
+12,Lopez,Josie,Sep-23,168
+12,Lopez,Josie,Oct-23,168
+12,Lopez,Josie,Nov-23,169
+12,Lopez,Josie,Dec-23,152
+12,Lopez,Josie,Jan-24,162
+12,Lopez,Josie,Feb-24,159
+12,Lopez,Josie,Mar-24,169
+12,Lopez,Josie,Apr-24,158
+12,Lopez,Josie,May-24,155
+13,Farala,Martha,Jun-19,170
+13,Farala,Martha,Jul-19,161
+13,Farala,Martha,Aug-19,151
+13,Farala,Martha,Sep-19,161
+13,Farala,Martha,Oct-19,165
+13,Farala,Martha,Nov-19,162
+13,Farala,Martha,Dec-19,165
+13,Farala,Martha,Jan-20,162
+13,Farala,Martha,Feb-20,168
+13,Farala,Martha,Mar-20,163
+13,Farala,Martha,Apr-20,162
+13,Farala,Martha,May-20,159
+13,Farala,Martha,Jun-20,156
+13,Farala,Martha,Jul-20,154
+13,Farala,Martha,Aug-20,166
+13,Farala,Martha,Sep-20,158
+13,Farala,Martha,Oct-20,155
+13,Farala,Martha,Nov-20,165
+13,Farala,Martha,Dec-20,155
+13,Farala,Martha,Jan-21,155
+13,Farala,Martha,Feb-21,167
+13,Farala,Martha,Mar-21,150
+13,Farala,Martha,Apr-21,166
+13,Farala,Martha,May-21,166
+13,Farala,Martha,Jun-21,150
+13,Farala,Martha,Jul-21,160
+13,Farala,Martha,Aug-21,162
+13,Farala,Martha,Sep-21,150
+13,Farala,Martha,Oct-21,157
+13,Farala,Martha,Nov-21,169
+13,Farala,Martha,Dec-21,155
+13,Farala,Martha,Jan-22,154
+13,Farala,Martha,Feb-22,169
+13,Farala,Martha,Mar-22,154
+13,Farala,Martha,Apr-22,155
+13,Farala,Martha,May-22,162
+13,Farala,Martha,Jun-22,167
+13,Farala,Martha,Jul-22,169
+13,Farala,Martha,Aug-22,162
+13,Farala,Martha,Sep-22,156
+13,Farala,Martha,Oct-22,157
+13,Farala,Martha,Nov-22,170
+13,Farala,Martha,Dec-22,166
+13,Farala,Martha,Jan-23,150
+13,Farala,Martha,Feb-23,165
+13,Farala,Martha,Mar-23,160
+13,Farala,Martha,Apr-23,153
+13,Farala,Martha,May-23,153
+13,Farala,Martha,Jun-23,166
+13,Farala,Martha,Jul-23,166
+13,Farala,Martha,Aug-23,159
+13,Farala,Martha,Sep-23,170
+13,Farala,Martha,Oct-23,170
+13,Farala,Martha,Nov-23,155
+13,Farala,Martha,Dec-23,166
+13,Farala,Martha,Jan-24,167
+13,Farala,Martha,Feb-24,159
+13,Farala,Martha,Mar-24,162
+13,Farala,Martha,Apr-24,165
+13,Farala,Martha,May-24,156
+14,Martinez,Leila,Jun-19,164
+14,Martinez,Leila,Jul-19,151
+14,Martinez,Leila,Aug-19,154
+14,Martinez,Leila,Sep-19,166
+14,Martinez,Leila,Oct-19,154
+14,Martinez,Leila,Nov-19,157
+14,Martinez,Leila,Dec-19,164
+14,Martinez,Leila,Jan-20,157
+14,Martinez,Leila,Feb-20,152
+14,Martinez,Leila,Mar-20,166
+14,Martinez,Leila,Apr-20,165
+14,Martinez,Leila,May-20,165
+14,Martinez,Leila,Jun-20,168
+14,Martinez,Leila,Jul-20,161
+14,Martinez,Leila,Aug-20,164
+14,Martinez,Leila,Sep-20,157
+14,Martinez,Leila,Oct-20,152
+14,Martinez,Leila,Nov-20,167
+14,Martinez,Leila,Dec-20,153
+14,Martinez,Leila,Jan-21,157
+14,Martinez,Leila,Feb-21,163
+14,Martinez,Leila,Mar-21,166
+14,Martinez,Leila,Apr-21,155
+14,Martinez,Leila,May-21,154
+14,Martinez,Leila,Jun-21,163
+14,Martinez,Leila,Jul-21,155
+14,Martinez,Leila,Aug-21,169
+14,Martinez,Leila,Sep-21,161
+14,Martinez,Leila,Oct-21,158
+14,Martinez,Leila,Nov-21,150
+14,Martinez,Leila,Dec-21,167
+14,Martinez,Leila,Jan-22,155
+14,Martinez,Leila,Feb-22,154
+14,Martinez,Leila,Mar-22,151
+14,Martinez,Leila,Apr-22,155
+14,Martinez,Leila,May-22,166
+14,Martinez,Leila,Jun-22,156
+14,Martinez,Leila,Jul-22,158
+14,Martinez,Leila,Aug-22,169
+14,Martinez,Leila,Sep-22,154
+14,Martinez,Leila,Oct-22,170
+14,Martinez,Leila,Nov-22,160
+14,Martinez,Leila,Dec-22,160
+14,Martinez,Leila,Jan-23,153
+14,Martinez,Leila,Feb-23,155
+14,Martinez,Leila,Mar-23,159
+14,Martinez,Leila,Apr-23,158
+14,Martinez,Leila,May-23,167
+14,Martinez,Leila,Jun-23,169
+14,Martinez,Leila,Jul-23,158
+14,Martinez,Leila,Aug-23,160
+14,Martinez,Leila,Sep-23,151
+14,Martinez,Leila,Oct-23,164
+14,Martinez,Leila,Nov-23,155
+14,Martinez,Leila,Dec-23,166
+14,Martinez,Leila,Jan-24,153
+14,Martinez,Leila,Feb-24,157
+14,Martinez,Leila,Mar-24,151
+14,Martinez,Leila,Apr-24,158
+14,Martinez,Leila,May-24,150
+15,Romualdez,Fredrick,Jun-19,155
+15,Romualdez,Fredrick,Jul-19,165
+15,Romualdez,Fredrick,Aug-19,156
+15,Romualdez,Fredrick,Sep-19,165
+15,Romualdez,Fredrick,Oct-19,155
+15,Romualdez,Fredrick,Nov-19,159
+15,Romualdez,Fredrick,Dec-19,167
+15,Romualdez,Fredrick,Jan-20,166
+15,Romualdez,Fredrick,Feb-20,166
+15,Romualdez,Fredrick,Mar-20,161
+15,Romualdez,Fredrick,Apr-20,164
+15,Romualdez,Fredrick,May-20,155
+15,Romualdez,Fredrick,Jun-20,169
+15,Romualdez,Fredrick,Jul-20,165
+15,Romualdez,Fredrick,Aug-20,163
+15,Romualdez,Fredrick,Sep-20,161
+15,Romualdez,Fredrick,Oct-20,161
+15,Romualdez,Fredrick,Nov-20,151
+15,Romualdez,Fredrick,Dec-20,157
+15,Romualdez,Fredrick,Jan-21,166
+15,Romualdez,Fredrick,Feb-21,157
+15,Romualdez,Fredrick,Mar-21,165
+15,Romualdez,Fredrick,Apr-21,150
+15,Romualdez,Fredrick,May-21,154
+15,Romualdez,Fredrick,Jun-21,168
+15,Romualdez,Fredrick,Jul-21,152
+15,Romualdez,Fredrick,Aug-21,158
+15,Romualdez,Fredrick,Sep-21,160
+15,Romualdez,Fredrick,Oct-21,155
+15,Romualdez,Fredrick,Nov-21,156
+15,Romualdez,Fredrick,Dec-21,156
+15,Romualdez,Fredrick,Jan-22,154
+15,Romualdez,Fredrick,Feb-22,151
+15,Romualdez,Fredrick,Mar-22,154
+15,Romualdez,Fredrick,Apr-22,155
+15,Romualdez,Fredrick,May-22,155
+15,Romualdez,Fredrick,Jun-22,156
+15,Romualdez,Fredrick,Jul-22,153
+15,Romualdez,Fredrick,Aug-22,167
+15,Romualdez,Fredrick,Sep-22,165
+15,Romualdez,Fredrick,Oct-22,170
+15,Romualdez,Fredrick,Nov-22,168
+15,Romualdez,Fredrick,Dec-22,159
+15,Romualdez,Fredrick,Jan-23,154
+15,Romualdez,Fredrick,Feb-23,167
+15,Romualdez,Fredrick,Mar-23,152
+15,Romualdez,Fredrick,Apr-23,169
+15,Romualdez,Fredrick,May-23,153
+15,Romualdez,Fredrick,Jun-23,163
+15,Romualdez,Fredrick,Jul-23,161
+15,Romualdez,Fredrick,Aug-23,163
+15,Romualdez,Fredrick,Sep-23,154
+15,Romualdez,Fredrick,Oct-23,167
+15,Romualdez,Fredrick,Nov-23,156
+15,Romualdez,Fredrick,Dec-23,165
+15,Romualdez,Fredrick,Jan-24,152
+15,Romualdez,Fredrick,Feb-24,170
+15,Romualdez,Fredrick,Mar-24,160
+15,Romualdez,Fredrick,Apr-24,167
+15,Romualdez,Fredrick,May-24,155
+16,Mata,Christian,Jun-19,170
+16,Mata,Christian,Jul-19,154
+16,Mata,Christian,Aug-19,154
+16,Mata,Christian,Sep-19,165
+16,Mata,Christian,Oct-19,152
+16,Mata,Christian,Nov-19,161
+16,Mata,Christian,Dec-19,152
+16,Mata,Christian,Jan-20,151
+16,Mata,Christian,Feb-20,164
+16,Mata,Christian,Mar-20,169
+16,Mata,Christian,Apr-20,166
+16,Mata,Christian,May-20,161
+16,Mata,Christian,Jun-20,151
+16,Mata,Christian,Jul-20,151
+16,Mata,Christian,Aug-20,163
+16,Mata,Christian,Sep-20,156
+16,Mata,Christian,Oct-20,163
+16,Mata,Christian,Nov-20,156
+16,Mata,Christian,Dec-20,169
+16,Mata,Christian,Jan-21,166
+16,Mata,Christian,Feb-21,153
+16,Mata,Christian,Mar-21,164
+16,Mata,Christian,Apr-21,152
+16,Mata,Christian,May-21,155
+16,Mata,Christian,Jun-21,157
+16,Mata,Christian,Jul-21,165
+16,Mata,Christian,Aug-21,164
+16,Mata,Christian,Sep-21,153
+16,Mata,Christian,Oct-21,170
+16,Mata,Christian,Nov-21,157
+16,Mata,Christian,Dec-21,157
+16,Mata,Christian,Jan-22,169
+16,Mata,Christian,Feb-22,156
+16,Mata,Christian,Mar-22,169
+16,Mata,Christian,Apr-22,167
+16,Mata,Christian,May-22,161
+16,Mata,Christian,Jun-22,153
+16,Mata,Christian,Jul-22,163
+16,Mata,Christian,Aug-22,154
+16,Mata,Christian,Sep-22,169
+16,Mata,Christian,Oct-22,156
+16,Mata,Christian,Nov-22,161
+16,Mata,Christian,Dec-22,164
+16,Mata,Christian,Jan-23,168
+16,Mata,Christian,Feb-23,162
+16,Mata,Christian,Mar-23,153
+16,Mata,Christian,Apr-23,155
+16,Mata,Christian,May-23,157
+16,Mata,Christian,Jun-23,164
+16,Mata,Christian,Jul-23,161
+16,Mata,Christian,Aug-23,159
+16,Mata,Christian,Sep-23,161
+16,Mata,Christian,Oct-23,166
+16,Mata,Christian,Nov-23,157
+16,Mata,Christian,Dec-23,151
+16,Mata,Christian,Jan-24,168
+16,Mata,Christian,Feb-24,150
+16,Mata,Christian,Mar-24,159
+16,Mata,Christian,Apr-24,158
+16,Mata,Christian,May-24,168
+17,De Leon,Selena,Jun-19,161
+17,De Leon,Selena,Jul-19,169
+17,De Leon,Selena,Aug-19,167
+17,De Leon,Selena,Sep-19,165
+17,De Leon,Selena,Oct-19,153
+17,De Leon,Selena,Nov-19,160
+17,De Leon,Selena,Dec-19,164
+17,De Leon,Selena,Jan-20,165
+17,De Leon,Selena,Feb-20,151
+17,De Leon,Selena,Mar-20,162
+17,De Leon,Selena,Apr-20,161
+17,De Leon,Selena,May-20,157
+17,De Leon,Selena,Jun-20,161
+17,De Leon,Selena,Jul-20,163
+17,De Leon,Selena,Aug-20,152
+17,De Leon,Selena,Sep-20,151
+17,De Leon,Selena,Oct-20,166
+17,De Leon,Selena,Nov-20,151
+17,De Leon,Selena,Dec-20,166
+17,De Leon,Selena,Jan-21,151
+17,De Leon,Selena,Feb-21,151
+17,De Leon,Selena,Mar-21,162
+17,De Leon,Selena,Apr-21,156
+17,De Leon,Selena,May-21,158
+17,De Leon,Selena,Jun-21,158
+17,De Leon,Selena,Jul-21,163
+17,De Leon,Selena,Aug-21,160
+17,De Leon,Selena,Sep-21,169
+17,De Leon,Selena,Oct-21,168
+17,De Leon,Selena,Nov-21,150
+17,De Leon,Selena,Dec-21,154
+17,De Leon,Selena,Jan-22,150
+17,De Leon,Selena,Feb-22,155
+17,De Leon,Selena,Mar-22,165
+17,De Leon,Selena,Apr-22,169
+17,De Leon,Selena,May-22,165
+17,De Leon,Selena,Jun-22,169
+17,De Leon,Selena,Jul-22,162
+17,De Leon,Selena,Aug-22,163
+17,De Leon,Selena,Sep-22,160
+17,De Leon,Selena,Oct-22,170
+17,De Leon,Selena,Nov-22,159
+17,De Leon,Selena,Dec-22,166
+17,De Leon,Selena,Jan-23,156
+17,De Leon,Selena,Feb-23,153
+17,De Leon,Selena,Mar-23,166
+17,De Leon,Selena,Apr-23,150
+17,De Leon,Selena,May-23,151
+17,De Leon,Selena,Jun-23,168
+17,De Leon,Selena,Jul-23,150
+17,De Leon,Selena,Aug-23,161
+17,De Leon,Selena,Sep-23,168
+17,De Leon,Selena,Oct-23,168
+17,De Leon,Selena,Nov-23,165
+17,De Leon,Selena,Dec-23,165
+17,De Leon,Selena,Jan-24,157
+17,De Leon,Selena,Feb-24,162
+17,De Leon,Selena,Mar-24,163
+17,De Leon,Selena,Apr-24,168
+17,De Leon,Selena,May-24,164
+18,San Jose,Allison,Jun-19,164
+18,San Jose,Allison,Jul-19,170
+18,San Jose,Allison,Aug-19,157
+18,San Jose,Allison,Sep-19,162
+18,San Jose,Allison,Oct-19,161
+18,San Jose,Allison,Nov-19,162
+18,San Jose,Allison,Dec-19,165
+18,San Jose,Allison,Jan-20,161
+18,San Jose,Allison,Feb-20,163
+18,San Jose,Allison,Mar-20,164
+18,San Jose,Allison,Apr-20,168
+18,San Jose,Allison,May-20,154
+18,San Jose,Allison,Jun-20,151
+18,San Jose,Allison,Jul-20,167
+18,San Jose,Allison,Aug-20,167
+18,San Jose,Allison,Sep-20,166
+18,San Jose,Allison,Oct-20,159
+18,San Jose,Allison,Nov-20,166
+18,San Jose,Allison,Dec-20,152
+18,San Jose,Allison,Jan-21,165
+18,San Jose,Allison,Feb-21,167
+18,San Jose,Allison,Mar-21,170
+18,San Jose,Allison,Apr-21,156
+18,San Jose,Allison,May-21,150
+18,San Jose,Allison,Jun-21,156
+18,San Jose,Allison,Jul-21,162
+18,San Jose,Allison,Aug-21,165
+18,San Jose,Allison,Sep-21,160
+18,San Jose,Allison,Oct-21,152
+18,San Jose,Allison,Nov-21,158
+18,San Jose,Allison,Dec-21,156
+18,San Jose,Allison,Jan-22,152
+18,San Jose,Allison,Feb-22,150
+18,San Jose,Allison,Mar-22,160
+18,San Jose,Allison,Apr-22,162
+18,San Jose,Allison,May-22,153
+18,San Jose,Allison,Jun-22,159
+18,San Jose,Allison,Jul-22,157
+18,San Jose,Allison,Aug-22,166
+18,San Jose,Allison,Sep-22,160
+18,San Jose,Allison,Oct-22,154
+18,San Jose,Allison,Nov-22,167
+18,San Jose,Allison,Dec-22,153
+18,San Jose,Allison,Jan-23,155
+18,San Jose,Allison,Feb-23,156
+18,San Jose,Allison,Mar-23,161
+18,San Jose,Allison,Apr-23,152
+18,San Jose,Allison,May-23,157
+18,San Jose,Allison,Jun-23,169
+18,San Jose,Allison,Jul-23,170
+18,San Jose,Allison,Aug-23,159
+18,San Jose,Allison,Sep-23,150
+18,San Jose,Allison,Oct-23,166
+18,San Jose,Allison,Nov-23,167
+18,San Jose,Allison,Dec-23,158
+18,San Jose,Allison,Jan-24,169
+18,San Jose,Allison,Feb-24,165
+18,San Jose,Allison,Mar-24,166
+18,San Jose,Allison,Apr-24,167
+18,San Jose,Allison,May-24,160
+19,Rosario,Cydney,Jun-19,167
+19,Rosario,Cydney,Jul-19,153
+19,Rosario,Cydney,Aug-19,157
+19,Rosario,Cydney,Sep-19,159
+19,Rosario,Cydney,Oct-19,153
+19,Rosario,Cydney,Nov-19,157
+19,Rosario,Cydney,Dec-19,166
+19,Rosario,Cydney,Jan-20,152
+19,Rosario,Cydney,Feb-20,154
+19,Rosario,Cydney,Mar-20,154
+19,Rosario,Cydney,Apr-20,156
+19,Rosario,Cydney,May-20,150
+19,Rosario,Cydney,Jun-20,167
+19,Rosario,Cydney,Jul-20,155
+19,Rosario,Cydney,Aug-20,169
+19,Rosario,Cydney,Sep-20,164
+19,Rosario,Cydney,Oct-20,158
+19,Rosario,Cydney,Nov-20,152
+19,Rosario,Cydney,Dec-20,167
+19,Rosario,Cydney,Jan-21,165
+19,Rosario,Cydney,Feb-21,166
+19,Rosario,Cydney,Mar-21,158
+19,Rosario,Cydney,Apr-21,162
+19,Rosario,Cydney,May-21,157
+19,Rosario,Cydney,Jun-21,162
+19,Rosario,Cydney,Jul-21,150
+19,Rosario,Cydney,Aug-21,170
+19,Rosario,Cydney,Sep-21,161
+19,Rosario,Cydney,Oct-21,161
+19,Rosario,Cydney,Nov-21,158
+19,Rosario,Cydney,Dec-21,150
+19,Rosario,Cydney,Jan-22,170
+19,Rosario,Cydney,Feb-22,163
+19,Rosario,Cydney,Mar-22,163
+19,Rosario,Cydney,Apr-22,155
+19,Rosario,Cydney,May-22,165
+19,Rosario,Cydney,Jun-22,157
+19,Rosario,Cydney,Jul-22,168
+19,Rosario,Cydney,Aug-22,154
+19,Rosario,Cydney,Sep-22,164
+19,Rosario,Cydney,Oct-22,162
+19,Rosario,Cydney,Nov-22,155
+19,Rosario,Cydney,Dec-22,166
+19,Rosario,Cydney,Jan-23,154
+19,Rosario,Cydney,Feb-23,159
+19,Rosario,Cydney,Mar-23,154
+19,Rosario,Cydney,Apr-23,166
+19,Rosario,Cydney,May-23,168
+19,Rosario,Cydney,Jun-23,155
+19,Rosario,Cydney,Jul-23,164
+19,Rosario,Cydney,Aug-23,153
+19,Rosario,Cydney,Sep-23,166
+19,Rosario,Cydney,Oct-23,150
+19,Rosario,Cydney,Nov-23,167
+19,Rosario,Cydney,Dec-23,159
+19,Rosario,Cydney,Jan-24,168
+19,Rosario,Cydney,Feb-24,151
+19,Rosario,Cydney,Mar-24,166
+19,Rosario,Cydney,Apr-24,167
+19,Rosario,Cydney,May-24,162
+20,Bautista,Mark,Jun-19,156
+20,Bautista,Mark,Jul-19,169
+20,Bautista,Mark,Aug-19,154
+20,Bautista,Mark,Sep-19,153
+20,Bautista,Mark,Oct-19,156
+20,Bautista,Mark,Nov-19,154
+20,Bautista,Mark,Dec-19,168
+20,Bautista,Mark,Jan-20,169
+20,Bautista,Mark,Feb-20,156
+20,Bautista,Mark,Mar-20,162
+20,Bautista,Mark,Apr-20,153
+20,Bautista,Mark,May-20,164
+20,Bautista,Mark,Jun-20,169
+20,Bautista,Mark,Jul-20,167
+20,Bautista,Mark,Aug-20,153
+20,Bautista,Mark,Sep-20,153
+20,Bautista,Mark,Oct-20,151
+20,Bautista,Mark,Nov-20,169
+20,Bautista,Mark,Dec-20,154
+20,Bautista,Mark,Jan-21,157
+20,Bautista,Mark,Feb-21,160
+20,Bautista,Mark,Mar-21,160
+20,Bautista,Mark,Apr-21,167
+20,Bautista,Mark,May-21,168
+20,Bautista,Mark,Jun-21,166
+20,Bautista,Mark,Jul-21,150
+20,Bautista,Mark,Aug-21,154
+20,Bautista,Mark,Sep-21,152
+20,Bautista,Mark,Oct-21,163
+20,Bautista,Mark,Nov-21,151
+20,Bautista,Mark,Dec-21,152
+20,Bautista,Mark,Jan-22,152
+20,Bautista,Mark,Feb-22,169
+20,Bautista,Mark,Mar-22,170
+20,Bautista,Mark,Apr-22,162
+20,Bautista,Mark,May-22,157
+20,Bautista,Mark,Jun-22,163
+20,Bautista,Mark,Jul-22,167
+20,Bautista,Mark,Aug-22,169
+20,Bautista,Mark,Sep-22,162
+20,Bautista,Mark,Oct-22,167
+20,Bautista,Mark,Nov-22,150
+20,Bautista,Mark,Dec-22,151
+20,Bautista,Mark,Jan-23,154
+20,Bautista,Mark,Feb-23,160
+20,Bautista,Mark,Mar-23,160
+20,Bautista,Mark,Apr-23,150
+20,Bautista,Mark,May-23,152
+20,Bautista,Mark,Jun-23,151
+20,Bautista,Mark,Jul-23,163
+20,Bautista,Mark,Aug-23,169
+20,Bautista,Mark,Sep-23,165
+20,Bautista,Mark,Oct-23,167
+20,Bautista,Mark,Nov-23,154
+20,Bautista,Mark,Dec-23,157
+20,Bautista,Mark,Jan-24,156
+20,Bautista,Mark,Feb-24,159
+20,Bautista,Mark,Mar-24,165
+20,Bautista,Mark,Apr-24,168
+20,Bautista,Mark,May-24,160
+21,Lazaro,Darlene,Jun-19,168
+21,Lazaro,Darlene,Jul-19,152
+21,Lazaro,Darlene,Aug-19,167
+21,Lazaro,Darlene,Sep-19,153
+21,Lazaro,Darlene,Oct-19,169
+21,Lazaro,Darlene,Nov-19,166
+21,Lazaro,Darlene,Dec-19,162
+21,Lazaro,Darlene,Jan-20,153
+21,Lazaro,Darlene,Feb-20,163
+21,Lazaro,Darlene,Mar-20,152
+21,Lazaro,Darlene,Apr-20,170
+21,Lazaro,Darlene,May-20,153
+21,Lazaro,Darlene,Jun-20,167
+21,Lazaro,Darlene,Jul-20,162
+21,Lazaro,Darlene,Aug-20,156
+21,Lazaro,Darlene,Sep-20,160
+21,Lazaro,Darlene,Oct-20,160
+21,Lazaro,Darlene,Nov-20,155
+21,Lazaro,Darlene,Dec-20,160
+21,Lazaro,Darlene,Jan-21,158
+21,Lazaro,Darlene,Feb-21,165
+21,Lazaro,Darlene,Mar-21,154
+21,Lazaro,Darlene,Apr-21,169
+21,Lazaro,Darlene,May-21,155
+21,Lazaro,Darlene,Jun-21,153
+21,Lazaro,Darlene,Jul-21,157
+21,Lazaro,Darlene,Aug-21,165
+21,Lazaro,Darlene,Sep-21,165
+21,Lazaro,Darlene,Oct-21,160
+21,Lazaro,Darlene,Nov-21,169
+21,Lazaro,Darlene,Dec-21,163
+21,Lazaro,Darlene,Jan-22,157
+21,Lazaro,Darlene,Feb-22,155
+21,Lazaro,Darlene,Mar-22,157
+21,Lazaro,Darlene,Apr-22,168
+21,Lazaro,Darlene,May-22,157
+21,Lazaro,Darlene,Jun-22,150
+21,Lazaro,Darlene,Jul-22,162
+21,Lazaro,Darlene,Aug-22,157
+21,Lazaro,Darlene,Sep-22,170
+21,Lazaro,Darlene,Oct-22,158
+21,Lazaro,Darlene,Nov-22,165
+21,Lazaro,Darlene,Dec-22,170
+21,Lazaro,Darlene,Jan-23,154
+21,Lazaro,Darlene,Feb-23,160
+21,Lazaro,Darlene,Mar-23,166
+21,Lazaro,Darlene,Apr-23,170
+21,Lazaro,Darlene,May-23,158
+21,Lazaro,Darlene,Jun-23,166
+21,Lazaro,Darlene,Jul-23,164
+21,Lazaro,Darlene,Aug-23,150
+21,Lazaro,Darlene,Sep-23,170
+21,Lazaro,Darlene,Oct-23,165
+21,Lazaro,Darlene,Nov-23,162
+21,Lazaro,Darlene,Dec-23,169
+21,Lazaro,Darlene,Jan-24,152
+21,Lazaro,Darlene,Feb-24,163
+21,Lazaro,Darlene,Mar-24,152
+21,Lazaro,Darlene,Apr-24,167
+21,Lazaro,Darlene,May-24,163
+22,Delos Santos,Kolby,Jun-19,166
+22,Delos Santos,Kolby,Jul-19,155
+22,Delos Santos,Kolby,Aug-19,157
+22,Delos Santos,Kolby,Sep-19,151
+22,Delos Santos,Kolby,Oct-19,167
+22,Delos Santos,Kolby,Nov-19,152
+22,Delos Santos,Kolby,Dec-19,170
+22,Delos Santos,Kolby,Jan-20,151
+22,Delos Santos,Kolby,Feb-20,154
+22,Delos Santos,Kolby,Mar-20,158
+22,Delos Santos,Kolby,Apr-20,168
+22,Delos Santos,Kolby,May-20,151
+22,Delos Santos,Kolby,Jun-20,153
+22,Delos Santos,Kolby,Jul-20,166
+22,Delos Santos,Kolby,Aug-20,153
+22,Delos Santos,Kolby,Sep-20,155
+22,Delos Santos,Kolby,Oct-20,151
+22,Delos Santos,Kolby,Nov-20,153
+22,Delos Santos,Kolby,Dec-20,157
+22,Delos Santos,Kolby,Jan-21,151
+22,Delos Santos,Kolby,Feb-21,151
+22,Delos Santos,Kolby,Mar-21,157
+22,Delos Santos,Kolby,Apr-21,154
+22,Delos Santos,Kolby,May-21,163
+22,Delos Santos,Kolby,Jun-21,162
+22,Delos Santos,Kolby,Jul-21,168
+22,Delos Santos,Kolby,Aug-21,150
+22,Delos Santos,Kolby,Sep-21,161
+22,Delos Santos,Kolby,Oct-21,169
+22,Delos Santos,Kolby,Nov-21,152
+22,Delos Santos,Kolby,Dec-21,163
+22,Delos Santos,Kolby,Jan-22,154
+22,Delos Santos,Kolby,Feb-22,166
+22,Delos Santos,Kolby,Mar-22,166
+22,Delos Santos,Kolby,Apr-22,160
+22,Delos Santos,Kolby,May-22,161
+22,Delos Santos,Kolby,Jun-22,153
+22,Delos Santos,Kolby,Jul-22,158
+22,Delos Santos,Kolby,Aug-22,169
+22,Delos Santos,Kolby,Sep-22,164
+22,Delos Santos,Kolby,Oct-22,150
+22,Delos Santos,Kolby,Nov-22,170
+22,Delos Santos,Kolby,Dec-22,170
+22,Delos Santos,Kolby,Jan-23,150
+22,Delos Santos,Kolby,Feb-23,152
+22,Delos Santos,Kolby,Mar-23,161
+22,Delos Santos,Kolby,Apr-23,155
+22,Delos Santos,Kolby,May-23,152
+22,Delos Santos,Kolby,Jun-23,157
+22,Delos Santos,Kolby,Jul-23,162
+22,Delos Santos,Kolby,Aug-23,161
+22,Delos Santos,Kolby,Sep-23,169
+22,Delos Santos,Kolby,Oct-23,151
+22,Delos Santos,Kolby,Nov-23,166
+22,Delos Santos,Kolby,Dec-23,168
+22,Delos Santos,Kolby,Jan-24,168
+22,Delos Santos,Kolby,Feb-24,164
+22,Delos Santos,Kolby,Mar-24,165
+22,Delos Santos,Kolby,Apr-24,165
+22,Delos Santos,Kolby,May-24,155
+23,Santos,Vella,Jun-19,151
+23,Santos,Vella,Jul-19,160
+23,Santos,Vella,Aug-19,152
+23,Santos,Vella,Sep-19,158
+23,Santos,Vella,Oct-19,169
+23,Santos,Vella,Nov-19,165
+23,Santos,Vella,Dec-19,157
+23,Santos,Vella,Jan-20,162
+23,Santos,Vella,Feb-20,153
+23,Santos,Vella,Mar-20,151
+23,Santos,Vella,Apr-20,166
+23,Santos,Vella,May-20,167
+23,Santos,Vella,Jun-20,166
+23,Santos,Vella,Jul-20,155
+23,Santos,Vella,Aug-20,169
+23,Santos,Vella,Sep-20,160
+23,Santos,Vella,Oct-20,169
+23,Santos,Vella,Nov-20,167
+23,Santos,Vella,Dec-20,163
+23,Santos,Vella,Jan-21,150
+23,Santos,Vella,Feb-21,151
+23,Santos,Vella,Mar-21,156
+23,Santos,Vella,Apr-21,159
+23,Santos,Vella,May-21,155
+23,Santos,Vella,Jun-21,162
+23,Santos,Vella,Jul-21,160
+23,Santos,Vella,Aug-21,166
+23,Santos,Vella,Sep-21,167
+23,Santos,Vella,Oct-21,154
+23,Santos,Vella,Nov-21,164
+23,Santos,Vella,Dec-21,163
+23,Santos,Vella,Jan-22,167
+23,Santos,Vella,Feb-22,156
+23,Santos,Vella,Mar-22,160
+23,Santos,Vella,Apr-22,155
+23,Santos,Vella,May-22,154
+23,Santos,Vella,Jun-22,154
+23,Santos,Vella,Jul-22,170
+23,Santos,Vella,Aug-22,168
+23,Santos,Vella,Sep-22,168
+23,Santos,Vella,Oct-22,160
+23,Santos,Vella,Nov-22,161
+23,Santos,Vella,Dec-22,164
+23,Santos,Vella,Jan-23,169
+23,Santos,Vella,Feb-23,166
+23,Santos,Vella,Mar-23,151
+23,Santos,Vella,Apr-23,158
+23,Santos,Vella,May-23,157
+23,Santos,Vella,Jun-23,155
+23,Santos,Vella,Jul-23,165
+23,Santos,Vella,Aug-23,159
+23,Santos,Vella,Sep-23,170
+23,Santos,Vella,Oct-23,150
+23,Santos,Vella,Nov-23,164
+23,Santos,Vella,Dec-23,152
+23,Santos,Vella,Jan-24,169
+23,Santos,Vella,Feb-24,154
+23,Santos,Vella,Mar-24,150
+23,Santos,Vella,Apr-24,170
+23,Santos,Vella,May-24,155
+24,Del Rosario,Tomas,Jun-19,167
+24,Del Rosario,Tomas,Jul-19,154
+24,Del Rosario,Tomas,Aug-19,150
+24,Del Rosario,Tomas,Sep-19,167
+24,Del Rosario,Tomas,Oct-19,167
+24,Del Rosario,Tomas,Nov-19,158
+24,Del Rosario,Tomas,Dec-19,159
+24,Del Rosario,Tomas,Jan-20,154
+24,Del Rosario,Tomas,Feb-20,159
+24,Del Rosario,Tomas,Mar-20,162
+24,Del Rosario,Tomas,Apr-20,166
+24,Del Rosario,Tomas,May-20,153
+24,Del Rosario,Tomas,Jun-20,150
+24,Del Rosario,Tomas,Jul-20,164
+24,Del Rosario,Tomas,Aug-20,150
+24,Del Rosario,Tomas,Sep-20,161
+24,Del Rosario,Tomas,Oct-20,151
+24,Del Rosario,Tomas,Nov-20,168
+24,Del Rosario,Tomas,Dec-20,164
+24,Del Rosario,Tomas,Jan-21,162
+24,Del Rosario,Tomas,Feb-21,158
+24,Del Rosario,Tomas,Mar-21,155
+24,Del Rosario,Tomas,Apr-21,152
+24,Del Rosario,Tomas,May-21,167
+24,Del Rosario,Tomas,Jun-21,165
+24,Del Rosario,Tomas,Jul-21,153
+24,Del Rosario,Tomas,Aug-21,166
+24,Del Rosario,Tomas,Sep-21,168
+24,Del Rosario,Tomas,Oct-21,155
+24,Del Rosario,Tomas,Nov-21,168
+24,Del Rosario,Tomas,Dec-21,157
+24,Del Rosario,Tomas,Jan-22,167
+24,Del Rosario,Tomas,Feb-22,154
+24,Del Rosario,Tomas,Mar-22,163
+24,Del Rosario,Tomas,Apr-22,169
+24,Del Rosario,Tomas,May-22,165
+24,Del Rosario,Tomas,Jun-22,169
+24,Del Rosario,Tomas,Jul-22,164
+24,Del Rosario,Tomas,Aug-22,168
+24,Del Rosario,Tomas,Sep-22,150
+24,Del Rosario,Tomas,Oct-22,154
+24,Del Rosario,Tomas,Nov-22,156
+24,Del Rosario,Tomas,Dec-22,170
+24,Del Rosario,Tomas,Jan-23,162
+24,Del Rosario,Tomas,Feb-23,153
+24,Del Rosario,Tomas,Mar-23,168
+24,Del Rosario,Tomas,Apr-23,163
+24,Del Rosario,Tomas,May-23,169
+24,Del Rosario,Tomas,Jun-23,167
+24,Del Rosario,Tomas,Jul-23,151
+24,Del Rosario,Tomas,Aug-23,168
+24,Del Rosario,Tomas,Sep-23,162
+24,Del Rosario,Tomas,Oct-23,165
+24,Del Rosario,Tomas,Nov-23,157
+24,Del Rosario,Tomas,Dec-23,152
+24,Del Rosario,Tomas,Jan-24,157
+24,Del Rosario,Tomas,Feb-24,163
+24,Del Rosario,Tomas,Mar-24,166
+24,Del Rosario,Tomas,Apr-24,151
+24,Del Rosario,Tomas,May-24,166
+25,Tolentino,Jacklyn,Jun-19,163
+25,Tolentino,Jacklyn,Jul-19,155
+25,Tolentino,Jacklyn,Aug-19,168
+25,Tolentino,Jacklyn,Sep-19,166
+25,Tolentino,Jacklyn,Oct-19,162
+25,Tolentino,Jacklyn,Nov-19,154
+25,Tolentino,Jacklyn,Dec-19,166
+25,Tolentino,Jacklyn,Jan-20,169
+25,Tolentino,Jacklyn,Feb-20,164
+25,Tolentino,Jacklyn,Mar-20,158
+25,Tolentino,Jacklyn,Apr-20,164
+25,Tolentino,Jacklyn,May-20,167
+25,Tolentino,Jacklyn,Jun-20,160
+25,Tolentino,Jacklyn,Jul-20,164
+25,Tolentino,Jacklyn,Aug-20,156
+25,Tolentino,Jacklyn,Sep-20,163
+25,Tolentino,Jacklyn,Oct-20,154
+25,Tolentino,Jacklyn,Nov-20,165
+25,Tolentino,Jacklyn,Dec-20,164
+25,Tolentino,Jacklyn,Jan-21,160
+25,Tolentino,Jacklyn,Feb-21,161
+25,Tolentino,Jacklyn,Mar-21,164
+25,Tolentino,Jacklyn,Apr-21,161
+25,Tolentino,Jacklyn,May-21,170
+25,Tolentino,Jacklyn,Jun-21,152
+25,Tolentino,Jacklyn,Jul-21,150
+25,Tolentino,Jacklyn,Aug-21,164
+25,Tolentino,Jacklyn,Sep-21,156
+25,Tolentino,Jacklyn,Oct-21,168
+25,Tolentino,Jacklyn,Nov-21,164
+25,Tolentino,Jacklyn,Dec-21,163
+25,Tolentino,Jacklyn,Jan-22,162
+25,Tolentino,Jacklyn,Feb-22,155
+25,Tolentino,Jacklyn,Mar-22,169
+25,Tolentino,Jacklyn,Apr-22,169
+25,Tolentino,Jacklyn,May-22,158
+25,Tolentino,Jacklyn,Jun-22,158
+25,Tolentino,Jacklyn,Jul-22,165
+25,Tolentino,Jacklyn,Aug-22,170
+25,Tolentino,Jacklyn,Sep-22,160
+25,Tolentino,Jacklyn,Oct-22,160
+25,Tolentino,Jacklyn,Nov-22,170
+25,Tolentino,Jacklyn,Dec-22,167
+25,Tolentino,Jacklyn,Jan-23,150
+25,Tolentino,Jacklyn,Feb-23,157
+25,Tolentino,Jacklyn,Mar-23,156
+25,Tolentino,Jacklyn,Apr-23,152
+25,Tolentino,Jacklyn,May-23,151
+25,Tolentino,Jacklyn,Jun-23,166
+25,Tolentino,Jacklyn,Jul-23,163
+25,Tolentino,Jacklyn,Aug-23,167
+25,Tolentino,Jacklyn,Sep-23,157
+25,Tolentino,Jacklyn,Oct-23,151
+25,Tolentino,Jacklyn,Nov-23,152
+25,Tolentino,Jacklyn,Dec-23,150
+25,Tolentino,Jacklyn,Jan-24,168
+25,Tolentino,Jacklyn,Feb-24,156
+25,Tolentino,Jacklyn,Mar-24,156
+25,Tolentino,Jacklyn,Apr-24,153
+25,Tolentino,Jacklyn,May-24,154
+26,Gutierrez,Percival,Jun-19,169
+26,Gutierrez,Percival,Jul-19,168
+26,Gutierrez,Percival,Aug-19,156
+26,Gutierrez,Percival,Sep-19,164
+26,Gutierrez,Percival,Oct-19,165
+26,Gutierrez,Percival,Nov-19,167
+26,Gutierrez,Percival,Dec-19,151
+26,Gutierrez,Percival,Jan-20,159
+26,Gutierrez,Percival,Feb-20,169
+26,Gutierrez,Percival,Mar-20,167
+26,Gutierrez,Percival,Apr-20,161
+26,Gutierrez,Percival,May-20,150
+26,Gutierrez,Percival,Jun-20,153
+26,Gutierrez,Percival,Jul-20,154
+26,Gutierrez,Percival,Aug-20,170
+26,Gutierrez,Percival,Sep-20,169
+26,Gutierrez,Percival,Oct-20,165
+26,Gutierrez,Percival,Nov-20,155
+26,Gutierrez,Percival,Dec-20,170
+26,Gutierrez,Percival,Jan-21,154
+26,Gutierrez,Percival,Feb-21,159
+26,Gutierrez,Percival,Mar-21,166
+26,Gutierrez,Percival,Apr-21,166
+26,Gutierrez,Percival,May-21,155
+26,Gutierrez,Percival,Jun-21,150
+26,Gutierrez,Percival,Jul-21,153
+26,Gutierrez,Percival,Aug-21,158
+26,Gutierrez,Percival,Sep-21,159
+26,Gutierrez,Percival,Oct-21,160
+26,Gutierrez,Percival,Nov-21,156
+26,Gutierrez,Percival,Dec-21,162
+26,Gutierrez,Percival,Jan-22,161
+26,Gutierrez,Percival,Feb-22,152
+26,Gutierrez,Percival,Mar-22,167
+26,Gutierrez,Percival,Apr-22,157
+26,Gutierrez,Percival,May-22,157
+26,Gutierrez,Percival,Jun-22,156
+26,Gutierrez,Percival,Jul-22,155
+26,Gutierrez,Percival,Aug-22,159
+26,Gutierrez,Percival,Sep-22,162
+26,Gutierrez,Percival,Oct-22,158
+26,Gutierrez,Percival,Nov-22,151
+26,Gutierrez,Percival,Dec-22,164
+26,Gutierrez,Percival,Jan-23,163
+26,Gutierrez,Percival,Feb-23,165
+26,Gutierrez,Percival,Mar-23,154
+26,Gutierrez,Percival,Apr-23,170
+26,Gutierrez,Percival,May-23,152
+26,Gutierrez,Percival,Jun-23,157
+26,Gutierrez,Percival,Jul-23,163
+26,Gutierrez,Percival,Aug-23,158
+26,Gutierrez,Percival,Sep-23,155
+26,Gutierrez,Percival,Oct-23,157
+26,Gutierrez,Percival,Nov-23,165
+26,Gutierrez,Percival,Dec-23,165
+26,Gutierrez,Percival,Jan-24,159
+26,Gutierrez,Percival,Feb-24,169
+26,Gutierrez,Percival,Mar-24,159
+26,Gutierrez,Percival,Apr-24,161
+26,Gutierrez,Percival,May-24,153
+27,Manalaysay,Garfield,Jun-19,157
+27,Manalaysay,Garfield,Jul-19,168
+27,Manalaysay,Garfield,Aug-19,158
+27,Manalaysay,Garfield,Sep-19,151
+27,Manalaysay,Garfield,Oct-19,153
+27,Manalaysay,Garfield,Nov-19,168
+27,Manalaysay,Garfield,Dec-19,167
+27,Manalaysay,Garfield,Jan-20,164
+27,Manalaysay,Garfield,Feb-20,160
+27,Manalaysay,Garfield,Mar-20,160
+27,Manalaysay,Garfield,Apr-20,161
+27,Manalaysay,Garfield,May-20,163
+27,Manalaysay,Garfield,Jun-20,164
+27,Manalaysay,Garfield,Jul-20,155
+27,Manalaysay,Garfield,Aug-20,160
+27,Manalaysay,Garfield,Sep-20,157
+27,Manalaysay,Garfield,Oct-20,167
+27,Manalaysay,Garfield,Nov-20,155
+27,Manalaysay,Garfield,Dec-20,156
+27,Manalaysay,Garfield,Jan-21,161
+27,Manalaysay,Garfield,Feb-21,161
+27,Manalaysay,Garfield,Mar-21,167
+27,Manalaysay,Garfield,Apr-21,168
+27,Manalaysay,Garfield,May-21,155
+27,Manalaysay,Garfield,Jun-21,167
+27,Manalaysay,Garfield,Jul-21,158
+27,Manalaysay,Garfield,Aug-21,167
+27,Manalaysay,Garfield,Sep-21,160
+27,Manalaysay,Garfield,Oct-21,157
+27,Manalaysay,Garfield,Nov-21,161
+27,Manalaysay,Garfield,Dec-21,164
+27,Manalaysay,Garfield,Jan-22,150
+27,Manalaysay,Garfield,Feb-22,151
+27,Manalaysay,Garfield,Mar-22,151
+27,Manalaysay,Garfield,Apr-22,154
+27,Manalaysay,Garfield,May-22,162
+27,Manalaysay,Garfield,Jun-22,158
+27,Manalaysay,Garfield,Jul-22,168
+27,Manalaysay,Garfield,Aug-22,162
+27,Manalaysay,Garfield,Sep-22,169
+27,Manalaysay,Garfield,Oct-22,153
+27,Manalaysay,Garfield,Nov-22,160
+27,Manalaysay,Garfield,Dec-22,157
+27,Manalaysay,Garfield,Jan-23,170
+27,Manalaysay,Garfield,Feb-23,164
+27,Manalaysay,Garfield,Mar-23,158
+27,Manalaysay,Garfield,Apr-23,164
+27,Manalaysay,Garfield,May-23,153
+27,Manalaysay,Garfield,Jun-23,153
+27,Manalaysay,Garfield,Jul-23,167
+27,Manalaysay,Garfield,Aug-23,162
+27,Manalaysay,Garfield,Sep-23,163
+27,Manalaysay,Garfield,Oct-23,157
+27,Manalaysay,Garfield,Nov-23,165
+27,Manalaysay,Garfield,Dec-23,164
+27,Manalaysay,Garfield,Jan-24,157
+27,Manalaysay,Garfield,Feb-24,169
+27,Manalaysay,Garfield,Mar-24,160
+27,Manalaysay,Garfield,Apr-24,163
+27,Manalaysay,Garfield,May-24,168
+28,Villegas,Lizeth,Jun-19,151
+28,Villegas,Lizeth,Jul-19,161
+28,Villegas,Lizeth,Aug-19,168
+28,Villegas,Lizeth,Sep-19,164
+28,Villegas,Lizeth,Oct-19,155
+28,Villegas,Lizeth,Nov-19,158
+28,Villegas,Lizeth,Dec-19,168
+28,Villegas,Lizeth,Jan-20,152
+28,Villegas,Lizeth,Feb-20,161
+28,Villegas,Lizeth,Mar-20,162
+28,Villegas,Lizeth,Apr-20,161
+28,Villegas,Lizeth,May-20,158
+28,Villegas,Lizeth,Jun-20,154
+28,Villegas,Lizeth,Jul-20,167
+28,Villegas,Lizeth,Aug-20,162
+28,Villegas,Lizeth,Sep-20,167
+28,Villegas,Lizeth,Oct-20,160
+28,Villegas,Lizeth,Nov-20,166
+28,Villegas,Lizeth,Dec-20,160
+28,Villegas,Lizeth,Jan-21,161
+28,Villegas,Lizeth,Feb-21,152
+28,Villegas,Lizeth,Mar-21,160
+28,Villegas,Lizeth,Apr-21,162
+28,Villegas,Lizeth,May-21,167
+28,Villegas,Lizeth,Jun-21,157
+28,Villegas,Lizeth,Jul-21,166
+28,Villegas,Lizeth,Aug-21,160
+28,Villegas,Lizeth,Sep-21,152
+28,Villegas,Lizeth,Oct-21,165
+28,Villegas,Lizeth,Nov-21,161
+28,Villegas,Lizeth,Dec-21,164
+28,Villegas,Lizeth,Jan-22,169
+28,Villegas,Lizeth,Feb-22,170
+28,Villegas,Lizeth,Mar-22,159
+28,Villegas,Lizeth,Apr-22,153
+28,Villegas,Lizeth,May-22,166
+28,Villegas,Lizeth,Jun-22,150
+28,Villegas,Lizeth,Jul-22,163
+28,Villegas,Lizeth,Aug-22,156
+28,Villegas,Lizeth,Sep-22,154
+28,Villegas,Lizeth,Oct-22,153
+28,Villegas,Lizeth,Nov-22,169
+28,Villegas,Lizeth,Dec-22,167
+28,Villegas,Lizeth,Jan-23,166
+28,Villegas,Lizeth,Feb-23,157
+28,Villegas,Lizeth,Mar-23,161
+28,Villegas,Lizeth,Apr-23,152
+28,Villegas,Lizeth,May-23,158
+28,Villegas,Lizeth,Jun-23,158
+28,Villegas,Lizeth,Jul-23,156
+28,Villegas,Lizeth,Aug-23,170
+28,Villegas,Lizeth,Sep-23,151
+28,Villegas,Lizeth,Oct-23,154
+28,Villegas,Lizeth,Nov-23,169
+28,Villegas,Lizeth,Dec-23,161
+28,Villegas,Lizeth,Jan-24,155
+28,Villegas,Lizeth,Feb-24,157
+28,Villegas,Lizeth,Mar-24,160
+28,Villegas,Lizeth,Apr-24,159
+28,Villegas,Lizeth,May-24,169
+29,Ramos,Carol,Jun-19,169
+29,Ramos,Carol,Jul-19,168
+29,Ramos,Carol,Aug-19,169
+29,Ramos,Carol,Sep-19,155
+29,Ramos,Carol,Oct-19,163
+29,Ramos,Carol,Nov-19,165
+29,Ramos,Carol,Dec-19,169
+29,Ramos,Carol,Jan-20,162
+29,Ramos,Carol,Feb-20,161
+29,Ramos,Carol,Mar-20,150
+29,Ramos,Carol,Apr-20,164
+29,Ramos,Carol,May-20,157
+29,Ramos,Carol,Jun-20,150
+29,Ramos,Carol,Jul-20,151
+29,Ramos,Carol,Aug-20,165
+29,Ramos,Carol,Sep-20,163
+29,Ramos,Carol,Oct-20,161
+29,Ramos,Carol,Nov-20,165
+29,Ramos,Carol,Dec-20,154
+29,Ramos,Carol,Jan-21,160
+29,Ramos,Carol,Feb-21,157
+29,Ramos,Carol,Mar-21,160
+29,Ramos,Carol,Apr-21,161
+29,Ramos,Carol,May-21,150
+29,Ramos,Carol,Jun-21,167
+29,Ramos,Carol,Jul-21,162
+29,Ramos,Carol,Aug-21,161
+29,Ramos,Carol,Sep-21,165
+29,Ramos,Carol,Oct-21,170
+29,Ramos,Carol,Nov-21,152
+29,Ramos,Carol,Dec-21,152
+29,Ramos,Carol,Jan-22,160
+29,Ramos,Carol,Feb-22,154
+29,Ramos,Carol,Mar-22,154
+29,Ramos,Carol,Apr-22,169
+29,Ramos,Carol,May-22,162
+29,Ramos,Carol,Jun-22,167
+29,Ramos,Carol,Jul-22,166
+29,Ramos,Carol,Aug-22,165
+29,Ramos,Carol,Sep-22,156
+29,Ramos,Carol,Oct-22,156
+29,Ramos,Carol,Nov-22,166
+29,Ramos,Carol,Dec-22,159
+29,Ramos,Carol,Jan-23,163
+29,Ramos,Carol,Feb-23,159
+29,Ramos,Carol,Mar-23,152
+29,Ramos,Carol,Apr-23,159
+29,Ramos,Carol,May-23,164
+29,Ramos,Carol,Jun-23,154
+29,Ramos,Carol,Jul-23,170
+29,Ramos,Carol,Aug-23,150
+29,Ramos,Carol,Sep-23,160
+29,Ramos,Carol,Oct-23,163
+29,Ramos,Carol,Nov-23,161
+29,Ramos,Carol,Dec-23,152
+29,Ramos,Carol,Jan-24,155
+29,Ramos,Carol,Feb-24,157
+29,Ramos,Carol,Mar-24,167
+29,Ramos,Carol,Apr-24,153
+29,Ramos,Carol,May-24,165
+30,Maceda,Emelia,Jun-19,152
+30,Maceda,Emelia,Jul-19,166
+30,Maceda,Emelia,Aug-19,169
+30,Maceda,Emelia,Sep-19,168
+30,Maceda,Emelia,Oct-19,168
+30,Maceda,Emelia,Nov-19,160
+30,Maceda,Emelia,Dec-19,168
+30,Maceda,Emelia,Jan-20,153
+30,Maceda,Emelia,Feb-20,167
+30,Maceda,Emelia,Mar-20,157
+30,Maceda,Emelia,Apr-20,160
+30,Maceda,Emelia,May-20,164
+30,Maceda,Emelia,Jun-20,155
+30,Maceda,Emelia,Jul-20,161
+30,Maceda,Emelia,Aug-20,169
+30,Maceda,Emelia,Sep-20,160
+30,Maceda,Emelia,Oct-20,160
+30,Maceda,Emelia,Nov-20,159
+30,Maceda,Emelia,Dec-20,153
+30,Maceda,Emelia,Jan-21,161
+30,Maceda,Emelia,Feb-21,150
+30,Maceda,Emelia,Mar-21,156
+30,Maceda,Emelia,Apr-21,169
+30,Maceda,Emelia,May-21,151
+30,Maceda,Emelia,Jun-21,162
+30,Maceda,Emelia,Jul-21,159
+30,Maceda,Emelia,Aug-21,169
+30,Maceda,Emelia,Sep-21,161
+30,Maceda,Emelia,Oct-21,153
+30,Maceda,Emelia,Nov-21,159
+30,Maceda,Emelia,Dec-21,158
+30,Maceda,Emelia,Jan-22,170
+30,Maceda,Emelia,Feb-22,158
+30,Maceda,Emelia,Mar-22,159
+30,Maceda,Emelia,Apr-22,163
+30,Maceda,Emelia,May-22,165
+30,Maceda,Emelia,Jun-22,165
+30,Maceda,Emelia,Jul-22,154
+30,Maceda,Emelia,Aug-22,151
+30,Maceda,Emelia,Sep-22,155
+30,Maceda,Emelia,Oct-22,160
+30,Maceda,Emelia,Nov-22,150
+30,Maceda,Emelia,Dec-22,169
+30,Maceda,Emelia,Jan-23,156
+30,Maceda,Emelia,Feb-23,153
+30,Maceda,Emelia,Mar-23,166
+30,Maceda,Emelia,Apr-23,153
+30,Maceda,Emelia,May-23,156
+30,Maceda,Emelia,Jun-23,159
+30,Maceda,Emelia,Jul-23,155
+30,Maceda,Emelia,Aug-23,161
+30,Maceda,Emelia,Sep-23,167
+30,Maceda,Emelia,Oct-23,161
+30,Maceda,Emelia,Nov-23,153
+30,Maceda,Emelia,Dec-23,170
+30,Maceda,Emelia,Jan-24,164
+30,Maceda,Emelia,Feb-24,164
+30,Maceda,Emelia,Mar-24,166
+30,Maceda,Emelia,Apr-24,153
+30,Maceda,Emelia,May-24,156
+31,Aguilar,Delia,Jun-19,161
+31,Aguilar,Delia,Jul-19,156
+31,Aguilar,Delia,Aug-19,170
+31,Aguilar,Delia,Sep-19,152
+31,Aguilar,Delia,Oct-19,150
+31,Aguilar,Delia,Nov-19,151
+31,Aguilar,Delia,Dec-19,154
+31,Aguilar,Delia,Jan-20,163
+31,Aguilar,Delia,Feb-20,158
+31,Aguilar,Delia,Mar-20,157
+31,Aguilar,Delia,Apr-20,167
+31,Aguilar,Delia,May-20,170
+31,Aguilar,Delia,Jun-20,158
+31,Aguilar,Delia,Jul-20,155
+31,Aguilar,Delia,Aug-20,151
+31,Aguilar,Delia,Sep-20,168
+31,Aguilar,Delia,Oct-20,160
+31,Aguilar,Delia,Nov-20,161
+31,Aguilar,Delia,Dec-20,157
+31,Aguilar,Delia,Jan-21,160
+31,Aguilar,Delia,Feb-21,157
+31,Aguilar,Delia,Mar-21,162
+31,Aguilar,Delia,Apr-21,169
+31,Aguilar,Delia,May-21,163
+31,Aguilar,Delia,Jun-21,160
+31,Aguilar,Delia,Jul-21,153
+31,Aguilar,Delia,Aug-21,170
+31,Aguilar,Delia,Sep-21,170
+31,Aguilar,Delia,Oct-21,167
+31,Aguilar,Delia,Nov-21,169
+31,Aguilar,Delia,Dec-21,155
+31,Aguilar,Delia,Jan-22,151
+31,Aguilar,Delia,Feb-22,162
+31,Aguilar,Delia,Mar-22,157
+31,Aguilar,Delia,Apr-22,155
+31,Aguilar,Delia,May-22,170
+31,Aguilar,Delia,Jun-22,152
+31,Aguilar,Delia,Jul-22,166
+31,Aguilar,Delia,Aug-22,163
+31,Aguilar,Delia,Sep-22,158
+31,Aguilar,Delia,Oct-22,157
+31,Aguilar,Delia,Nov-22,151
+31,Aguilar,Delia,Dec-22,151
+31,Aguilar,Delia,Jan-23,151
+31,Aguilar,Delia,Feb-23,159
+31,Aguilar,Delia,Mar-23,154
+31,Aguilar,Delia,Apr-23,156
+31,Aguilar,Delia,May-23,151
+31,Aguilar,Delia,Jun-23,168
+31,Aguilar,Delia,Jul-23,170
+31,Aguilar,Delia,Aug-23,160
+31,Aguilar,Delia,Sep-23,165
+31,Aguilar,Delia,Oct-23,153
+31,Aguilar,Delia,Nov-23,168
+31,Aguilar,Delia,Dec-23,156
+31,Aguilar,Delia,Jan-24,170
+31,Aguilar,Delia,Feb-24,150
+31,Aguilar,Delia,Mar-24,164
+31,Aguilar,Delia,Apr-24,153
+31,Aguilar,Delia,May-24,155
+32,Castro,John Rafael,Jun-19,157
+32,Castro,John Rafael,Jul-19,166
+32,Castro,John Rafael,Aug-19,161
+32,Castro,John Rafael,Sep-19,161
+32,Castro,John Rafael,Oct-19,162
+32,Castro,John Rafael,Nov-19,152
+32,Castro,John Rafael,Dec-19,155
+32,Castro,John Rafael,Jan-20,167
+32,Castro,John Rafael,Feb-20,164
+32,Castro,John Rafael,Mar-20,155
+32,Castro,John Rafael,Apr-20,164
+32,Castro,John Rafael,May-20,167
+32,Castro,John Rafael,Jun-20,159
+32,Castro,John Rafael,Jul-20,164
+32,Castro,John Rafael,Aug-20,162
+32,Castro,John Rafael,Sep-20,152
+32,Castro,John Rafael,Oct-20,153
+32,Castro,John Rafael,Nov-20,150
+32,Castro,John Rafael,Dec-20,162
+32,Castro,John Rafael,Jan-21,162
+32,Castro,John Rafael,Feb-21,162
+32,Castro,John Rafael,Mar-21,169
+32,Castro,John Rafael,Apr-21,150
+32,Castro,John Rafael,May-21,167
+32,Castro,John Rafael,Jun-21,152
+32,Castro,John Rafael,Jul-21,168
+32,Castro,John Rafael,Aug-21,169
+32,Castro,John Rafael,Sep-21,154
+32,Castro,John Rafael,Oct-21,155
+32,Castro,John Rafael,Nov-21,167
+32,Castro,John Rafael,Dec-21,156
+32,Castro,John Rafael,Jan-22,165
+32,Castro,John Rafael,Feb-22,151
+32,Castro,John Rafael,Mar-22,165
+32,Castro,John Rafael,Apr-22,159
+32,Castro,John Rafael,May-22,163
+32,Castro,John Rafael,Jun-22,167
+32,Castro,John Rafael,Jul-22,162
+32,Castro,John Rafael,Aug-22,163
+32,Castro,John Rafael,Sep-22,168
+32,Castro,John Rafael,Oct-22,165
+32,Castro,John Rafael,Nov-22,152
+32,Castro,John Rafael,Dec-22,161
+32,Castro,John Rafael,Jan-23,159
+32,Castro,John Rafael,Feb-23,168
+32,Castro,John Rafael,Mar-23,158
+32,Castro,John Rafael,Apr-23,169
+32,Castro,John Rafael,May-23,165
+32,Castro,John Rafael,Jun-23,154
+32,Castro,John Rafael,Jul-23,160
+32,Castro,John Rafael,Aug-23,167
+32,Castro,John Rafael,Sep-23,156
+32,Castro,John Rafael,Oct-23,162
+32,Castro,John Rafael,Nov-23,158
+32,Castro,John Rafael,Dec-23,158
+32,Castro,John Rafael,Jan-24,158
+32,Castro,John Rafael,Feb-24,162
+32,Castro,John Rafael,Mar-24,155
+32,Castro,John Rafael,Apr-24,168
+32,Castro,John Rafael,May-24,152
+33,Martinez,Carlos Ian,Jun-19,155
+33,Martinez,Carlos Ian,Jul-19,155
+33,Martinez,Carlos Ian,Aug-19,154
+33,Martinez,Carlos Ian,Sep-19,160
+33,Martinez,Carlos Ian,Oct-19,167
+33,Martinez,Carlos Ian,Nov-19,161
+33,Martinez,Carlos Ian,Dec-19,167
+33,Martinez,Carlos Ian,Jan-20,158
+33,Martinez,Carlos Ian,Feb-20,153
+33,Martinez,Carlos Ian,Mar-20,166
+33,Martinez,Carlos Ian,Apr-20,161
+33,Martinez,Carlos Ian,May-20,168
+33,Martinez,Carlos Ian,Jun-20,165
+33,Martinez,Carlos Ian,Jul-20,153
+33,Martinez,Carlos Ian,Aug-20,154
+33,Martinez,Carlos Ian,Sep-20,157
+33,Martinez,Carlos Ian,Oct-20,153
+33,Martinez,Carlos Ian,Nov-20,161
+33,Martinez,Carlos Ian,Dec-20,165
+33,Martinez,Carlos Ian,Jan-21,163
+33,Martinez,Carlos Ian,Feb-21,165
+33,Martinez,Carlos Ian,Mar-21,151
+33,Martinez,Carlos Ian,Apr-21,161
+33,Martinez,Carlos Ian,May-21,155
+33,Martinez,Carlos Ian,Jun-21,154
+33,Martinez,Carlos Ian,Jul-21,150
+33,Martinez,Carlos Ian,Aug-21,155
+33,Martinez,Carlos Ian,Sep-21,161
+33,Martinez,Carlos Ian,Oct-21,163
+33,Martinez,Carlos Ian,Nov-21,157
+33,Martinez,Carlos Ian,Dec-21,158
+33,Martinez,Carlos Ian,Jan-22,161
+33,Martinez,Carlos Ian,Feb-22,151
+33,Martinez,Carlos Ian,Mar-22,164
+33,Martinez,Carlos Ian,Apr-22,156
+33,Martinez,Carlos Ian,May-22,161
+33,Martinez,Carlos Ian,Jun-22,160
+33,Martinez,Carlos Ian,Jul-22,150
+33,Martinez,Carlos Ian,Aug-22,168
+33,Martinez,Carlos Ian,Sep-22,158
+33,Martinez,Carlos Ian,Oct-22,156
+33,Martinez,Carlos Ian,Nov-22,161
+33,Martinez,Carlos Ian,Dec-22,153
+33,Martinez,Carlos Ian,Jan-23,170
+33,Martinez,Carlos Ian,Feb-23,154
+33,Martinez,Carlos Ian,Mar-23,154
+33,Martinez,Carlos Ian,Apr-23,167
+33,Martinez,Carlos Ian,May-23,170
+33,Martinez,Carlos Ian,Jun-23,165
+33,Martinez,Carlos Ian,Jul-23,169
+33,Martinez,Carlos Ian,Aug-23,158
+33,Martinez,Carlos Ian,Sep-23,159
+33,Martinez,Carlos Ian,Oct-23,168
+33,Martinez,Carlos Ian,Nov-23,167
+33,Martinez,Carlos Ian,Dec-23,157
+33,Martinez,Carlos Ian,Jan-24,169
+33,Martinez,Carlos Ian,Feb-24,153
+33,Martinez,Carlos Ian,Mar-24,159
+33,Martinez,Carlos Ian,Apr-24,165
+33,Martinez,Carlos Ian,May-24,166
+34,Santos,Beatriz,Jun-19,157
+34,Santos,Beatriz,Jul-19,153
+34,Santos,Beatriz,Aug-19,157
+34,Santos,Beatriz,Sep-19,158
+34,Santos,Beatriz,Oct-19,155
+34,Santos,Beatriz,Nov-19,155
+34,Santos,Beatriz,Dec-19,151
+34,Santos,Beatriz,Jan-20,164
+34,Santos,Beatriz,Feb-20,156
+34,Santos,Beatriz,Mar-20,167
+34,Santos,Beatriz,Apr-20,158
+34,Santos,Beatriz,May-20,151
+34,Santos,Beatriz,Jun-20,152
+34,Santos,Beatriz,Jul-20,166
+34,Santos,Beatriz,Aug-20,152
+34,Santos,Beatriz,Sep-20,161
+34,Santos,Beatriz,Oct-20,160
+34,Santos,Beatriz,Nov-20,170
+34,Santos,Beatriz,Dec-20,154
+34,Santos,Beatriz,Jan-21,164
+34,Santos,Beatriz,Feb-21,170
+34,Santos,Beatriz,Mar-21,157
+34,Santos,Beatriz,Apr-21,155
+34,Santos,Beatriz,May-21,164
+34,Santos,Beatriz,Jun-21,168
+34,Santos,Beatriz,Jul-21,164
+34,Santos,Beatriz,Aug-21,165
+34,Santos,Beatriz,Sep-21,169
+34,Santos,Beatriz,Oct-21,150
+34,Santos,Beatriz,Nov-21,156
+34,Santos,Beatriz,Dec-21,159
+34,Santos,Beatriz,Jan-22,151
+34,Santos,Beatriz,Feb-22,161
+34,Santos,Beatriz,Mar-22,156
+34,Santos,Beatriz,Apr-22,158
+34,Santos,Beatriz,May-22,154
+34,Santos,Beatriz,Jun-22,162
+34,Santos,Beatriz,Jul-22,153
+34,Santos,Beatriz,Aug-22,155
+34,Santos,Beatriz,Sep-22,162
+34,Santos,Beatriz,Oct-22,168
+34,Santos,Beatriz,Nov-22,150
+34,Santos,Beatriz,Dec-22,151
+34,Santos,Beatriz,Jan-23,170
+34,Santos,Beatriz,Feb-23,163
+34,Santos,Beatriz,Mar-23,166
+34,Santos,Beatriz,Apr-23,161
+34,Santos,Beatriz,May-23,164
+34,Santos,Beatriz,Jun-23,163
+34,Santos,Beatriz,Jul-23,158
+34,Santos,Beatriz,Aug-23,153
+34,Santos,Beatriz,Sep-23,159
+34,Santos,Beatriz,Oct-23,167
+34,Santos,Beatriz,Nov-23,155
+34,Santos,Beatriz,Dec-23,161
+34,Santos,Beatriz,Jan-24,163
+34,Santos,Beatriz,Feb-24,159
+34,Santos,Beatriz,Mar-24,163
+34,Santos,Beatriz,Apr-24,163
+34,Santos,Beatriz,May-24,166
