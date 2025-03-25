@@ -1223,20 +1223,61 @@ public Date convertToDate(Object dateObj) {
 
     private void jButtonProfileDeleteActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonProfileDeleteActionPerformed
 
-        int response = JOptionPane.showConfirmDialog(null, "Do you want to proceed with deleting the entry?",
-            "Delete Entry Confirmation",
-            JOptionPane.YES_NO_OPTION,
-            JOptionPane.QUESTION_MESSAGE);
+        // Get the selected row index
+    int selectedRowIndex = jTableEmployeeList.getSelectedRow();
+    
+    // Check if a row is actually selected
+    if (selectedRowIndex == -1) {
+        JOptionPane.showMessageDialog(this, 
+            "Please select an employee to delete first.", 
+            "No Selection", 
+            JOptionPane.WARNING_MESSAGE);
+        return;
+    }
+    
+    // Ask for confirmation
+    int response = JOptionPane.showConfirmDialog(this, 
+        "Do you want to proceed with deleting the entry?",
+        "Delete Entry Confirmation",
+        JOptionPane.YES_NO_OPTION,
+        JOptionPane.QUESTION_MESSAGE);
 
-        if (response == JOptionPane.YES_OPTION) {
-            int selectedRowIndex = jTableEmployeeList.getSelectedRow();
+    // If user confirms deletion
+    if (response == JOptionPane.YES_OPTION) {
+        try {
+            // Get the table model
             DefaultTableModel model = (DefaultTableModel) jTableEmployeeList.getModel();
+            
+            // Get employee info for confirmation message
+            String empNum = model.getValueAt(selectedRowIndex, 0).toString();
+            String empName = model.getValueAt(selectedRowIndex, 1).toString() + ", " + 
+                            model.getValueAt(selectedRowIndex, 2).toString();
+            
+            // Remove the row
             model.removeRow(selectedRowIndex);
-
-            JOptionPane.showMessageDialog(this, "Employee deleted successfully");
+            
+            // Show success message with employee details
+            JOptionPane.showMessageDialog(this, 
+                "Employee " + empNum + " (" + empName + ") deleted successfully",
+                "Success",
+                JOptionPane.INFORMATION_MESSAGE);
+            
+            // Clear the text fields after deletion
+            clearTextField();
+        } catch (Exception e) {
+            // Log and show error if deletion fails
+            Logger.getLogger(EmployeeProfile.class.getName()).log(Level.SEVERE, 
+                "Error deleting employee", e);
+            JOptionPane.showMessageDialog(this, 
+                "Failed to delete employee: " + e.getMessage(),
+                "Error",
+                JOptionPane.ERROR_MESSAGE);
         }
+    }
+    
+    // Reset the text field edit settings
+    textFieldEditSetting(false);
 
-        textFieldEditSetting(false);
     }//GEN-LAST:event_jButtonProfileDeleteActionPerformed
 
     private void jButtonUpdateDBSActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonUpdateDBSActionPerformed

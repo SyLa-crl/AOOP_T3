@@ -41,10 +41,11 @@ public class LeaveApplicationAdmin extends javax.swing.JFrame {
     }
 
     private void csvRun() throws FileNotFoundException, IOException, CsvException {
-        List<String[]> records = FileHandling.readCSV(FILE_NAME);
-        List<LeaveDetails> employees = parseRecords(records);
-        informationTable(employees);
-    }
+    List<String[]> records = FileHandling.readCSV(FILE_NAME);
+    List<LeaveDetails> employees = parseRecords(records);
+    this.employees = employees; // Store in class variable for later use
+    informationTable(employees);
+}
 
     public List<LeaveDetails> parseRecords(List<String[]> records) {
     List<LeaveDetails> employees = new ArrayList<>();
@@ -139,23 +140,28 @@ public Date convertToDate(Object dateObj) throws ParseException {
 }
     
     private void informationTable(List<LeaveDetails> employees) {
-        DefaultTableModel tableModel = (DefaultTableModel) jTableLeaveApplications.getModel();
-        tableModel.setRowCount(0); // Clear existing rows
+       DefaultTableModel tableModel = (DefaultTableModel) jTableLeaveApplications.getModel();
+    tableModel.setRowCount(0); // Clear existing rows
 
-        for (LeaveDetails employee : employees) {
-            tableModel.addRow(new Object[]{
-                employee.getentryNum(),
-                employee.getEmployeeNumber(),
-                employee.getLastName(),
-                employee.getFirstName(),
-                employee.getLeaveStatus(),
-                employee.getSubmittedDate(),
-                employee.getLeaveReason(),
-                employee.getStartDate(),
-                employee.getEndDate(),
-                employee.getLeaveDay(),});
-        }
-
+    for (LeaveDetails employee : employees) {
+        // Get the leave days value
+        String leaveDay = employee.getLeaveDay();
+        
+        // Make sure to display the leave days value from the CSV, not a default "0"
+        tableModel.addRow(new Object[]{
+            employee.getentryNum(),
+            employee.getEmployeeNumber(),
+            employee.getLastName(),
+            employee.getFirstName(),
+            employee.getLeaveStatus(),
+            employee.getSubmittedDate(),
+            employee.getLeaveReason(),
+            employee.getStartDate(),
+            employee.getEndDate(),
+            leaveDay // Make sure this is the actual value
+        });
+    
+}
     }
 
     public void showPendingLeaves() {

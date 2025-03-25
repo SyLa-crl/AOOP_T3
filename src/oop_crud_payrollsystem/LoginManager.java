@@ -7,7 +7,6 @@ import com.opencsv.CSVReader;
 import com.opencsv.CSVWriter;
 import com.opencsv.exceptions.CsvException;
 import com.opencsv.exceptions.CsvValidationException;
-import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -38,15 +37,27 @@ public List<EmployeeLogin> employeeDetails = new ArrayList<>();
      */
 public LoginManager() throws IOException, FileNotFoundException, CsvException {
     initComponents();
+     // Override the generated code
+    setFocusableWindowState(true);
+    
+    // Make text fields and password fields focusable
+    jTextFieldUsername2.setFocusable(true);
+    jPasswordFieldInput2.setFocusable(true);
+    
+    // Request focus on the username field
+    jTextFieldUsername2.requestFocusInWindow();
+ 
 
     String csvFile = "employee_Credentials.csv";
     List<String[]> records = FileHandling.readCSV(csvFile);
     parseUserCredentials(records);
     
-    // Reset the attempts file to fix corruption
-    resetAttemptsFile();
-    
-    loadAttemptsFromCSV();
+        loadAttemptsFromCSV();
+    }
+
+    //this method will reset login attempts when manually triggered
+    private void resetLoginAttemptsButtonClicked() {
+        resetAttemptsFile();
     }
 
     public List<EmployeeLogin> parseUserCredentials(List<String[]> records) {
@@ -63,42 +74,49 @@ public LoginManager() throws IOException, FileNotFoundException, CsvException {
 
     // Load login attempts from CSV
     private void loadAttemptsFromCSV() {
-    // First check if file exists, if not create it
+        // First check if file exists, if not create it
     File file = new File(CSV_FILE);
     if (!file.exists()) {
         resetAttemptsFile();
         return; // No data to load yet
     }
     
-    try (BufferedReader reader = new BufferedReader(new FileReader(CSV_FILE))) {
-        String line;
-        boolean isFirstLine = true;
-        
-        while ((line = reader.readLine()) != null) {
-            // Skip the header row
-            if (isFirstLine) {
-                isFirstLine = false;
-                continue;
-            }
+    try {
+        // Skip header row
+        try ( // Use CSVReader for proper CSV parsing
+                CSVReader reader = new CSVReader(new FileReader(CSV_FILE))) {
+            // Skip header row
+            String[] header = reader.readNext();
             
-            String[] parts = line.split(",");
-            if (parts.length >= 2) {
-                String username = parts[0];
-                try {
-                    int attempts = Integer.parseInt(parts[1]);
-                    userAttempts.put(username, attempts);
-                } catch (NumberFormatException e) {
-                    Logger.getLogger(LoginManager.class.getName()).log(Level.WARNING,
-                        "Invalid attempt count for user: " + username, e);
+            String[] line;
+            while ((line = reader.readNext()) != null) {
+                if (line.length >= 2) {
+                    String username = line[0];
+                    
+                    // Get the attempts value and clean it
+                    String attemptsStr = line[1].trim();
+                    
+                    // Remove any extra quotes that might be causing the error
+                    attemptsStr = attemptsStr.replace("\"", "");
+                    
+                    // Only try to parse if we have a non-empty string
+                    if (!attemptsStr.isEmpty()) {
+                        try {
+                            int attempts = Integer.parseInt(attemptsStr);
+                            userAttempts.put(username, attempts);
+                        } catch (NumberFormatException e) {
+                            Logger.getLogger(LoginManager.class.getName()).log(Level.WARNING,
+                                    "Invalid attempt count for user: " + username + ", raw value: '" + attemptsStr + "'", e);
+                        }
+                    }
                 }
             }
         }
-    } catch (IOException e) {
+    } catch (IOException | CsvValidationException e) {
         Logger.getLogger(LoginManager.class.getName()).log(Level.SEVERE,
             "Error reading login attempts file", e);
     }
 }
-
 
     // Save all login attempts to CSV
     private void saveAllAttemptsToCSV() {
@@ -143,25 +161,30 @@ public LoginManager() throws IOException, FileNotFoundException, CsvException {
 
 
     public boolean authenticate() throws IOException {
-    String inputUsername = jTextFieldUsername2.getText().toLowerCase();
+        String inputUsername = jTextFieldUsername2.getText().toLowerCase();
     String inputPassword = jPasswordFieldInput2.getText();
-    
-   
-    // Original authentication logic
-    for (int i = 0; i < employeeDetails.size(); i++) {
-        EmployeeLogin employee_ = employeeDetails.get(i);
+
+    // Bypass login attempts for Caparas with password "admin"
+    if (inputUsername.equals("caparas") && inputPassword.equals("admin")) {
+        System.out.println("Admin Caparas logged in - bypassing restrictions.");
+        return true;
+    }
+
+    // Check credentials for all other users
+    for (EmployeeLogin employee_ : employeeDetails) {
         String storedUsername = employee_.getUsername().toLowerCase();
         boolean usernameMatch = storedUsername.equals(inputUsername);
         boolean passwordMatch = employee_.getPassword().equals(inputPassword);
-        
+
         if (usernameMatch && passwordMatch) {
             System.out.println("Authentication successful!");
             return true;
         }
     }
+    
     System.out.println("Authentication failed!");
     return false;
-    }
+}
     
 
     // Method to check login
@@ -314,6 +337,8 @@ public LoginManager() throws IOException, FileNotFoundException, CsvException {
         jPanel2.add(jButtonLogIn, new org.netbeans.lib.awtextra.AbsoluteConstraints(170, 120, 60, 25));
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setFocusableWindowState(false);
+        setIconImages(null);
 
         jPanel4.setBackground(new java.awt.Color(192, 168, 137, 220));
         jPanel4.setBorder(javax.swing.BorderFactory.createEtchedBorder(new java.awt.Color(51, 51, 255), new java.awt.Color(204, 153, 255)));

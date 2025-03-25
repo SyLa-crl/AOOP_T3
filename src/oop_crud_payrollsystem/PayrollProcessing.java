@@ -17,7 +17,6 @@ import com.opencsv.CSVWriter;
 import com.opencsv.exceptions.CsvException;
 import com.opencsv.exceptions.CsvValidationException;
 import java.io.FileWriter;
-//import java.awt.Toolkit;
 import java.time.DayOfWeek;
 import java.time.LocalDate;
 import java.time.Month;
@@ -103,17 +102,23 @@ public final class PayrollProcessing extends javax.swing.JFrame {
 
     public Integer matchWorkedHours() {
         String searchId = jTextFieldEmployeeNum.getText();
-        String searchPeriod = jComboBoxCoveredMonth.getSelectedItem().toString() + " " + jComboBoxCoveredYear.getSelectedItem().toString();
-
+        String searchMonth = jComboBoxCoveredMonth.getSelectedItem().toString().trim();
+        String searchYear = jComboBoxCoveredYear.getSelectedItem().toString().trim();
+        String searchPeriod = searchMonth + " " + searchYear;
+    
         for (int i = 0; i < employeeData.size(); i++) {
-            EmployeeHoursWorked employeehoursWorked = employeeData.get(i);
-            if (employeehoursWorked.getEmployeeNumber().equals(searchId) && employeehoursWorked.getCoveredPeriod().equals(searchPeriod)) {
-                return i;
-            }
+        EmployeeHoursWorked employeehoursWorked = employeeData.get(i);
+        String empId = employeehoursWorked.getEmployeeNumber();
+        String empPeriod = employeehoursWorked.getCoveredPeriod().trim();
+        
+        // Use case-insensitive comparison for more reliability
+        if (empId.equals(searchId) && empPeriod.equalsIgnoreCase(searchPeriod)) {
+            return i;
         }
-        JOptionPane.showMessageDialog(null, "No record for the selected covered period");
-
-        return -1; // Return -1 if no match is found
+    }
+    
+    JOptionPane.showMessageDialog(null, "No record for the selected covered period");
+    return -1; // Return -1 if no match is found
     }
 
     public String[] createHeadertoRecords() {
@@ -279,7 +284,8 @@ public final class PayrollProcessing extends javax.swing.JFrame {
         jTextFieldTotalDeductions.setText(formattedTotalDeduction);
 
         double totalBenefits;
-        totalBenefits = Double.parseDouble(jTextFieldBenefits.getText());
+        String benefitsText = jTextFieldBenefits.getText().replace(",", "");
+        totalBenefits = Double.parseDouble(benefitsText);
 
         double takeHomePay;
         takeHomePay = grossIncome - totalDeduction + totalBenefits;
@@ -838,39 +844,85 @@ public final class PayrollProcessing extends javax.swing.JFrame {
     }//GEN-LAST:event_jButtonCloseActionPerformed
 
     private void jButtonAddtoRecordsActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonAddtoRecordsActionPerformed
-        try {
-            if (isUniqueCompute()) {
-                int response = JOptionPane.showConfirmDialog(null, "Do you want to add this to the payroll records?",
-                    "Update Confirmation",
-                    JOptionPane.YES_NO_OPTION,
-                    JOptionPane.QUESTION_MESSAGE);
+          try {
+        if (isUniqueCompute()) {
+            int response = JOptionPane.showConfirmDialog(null, "Do you want to add this to the payroll records?",
+                "Update Confirmation",
+                JOptionPane.YES_NO_OPTION,
+                JOptionPane.QUESTION_MESSAGE);
 
-                if (response == JOptionPane.YES_OPTION) {
-                    try {
-                        try {
-                            updatePayrollRecords();
-                        } catch (CsvValidationException ex) {
-                            Logger.getLogger(PayrollProcessing.class.getName()).log(Level.SEVERE, null, ex);
-                        }
-                    } catch (IOException ex) {
-                        Logger.getLogger(PayrollProcessing.class.getName()).log(Level.SEVERE, null, ex);
-                    }
-                } else {
-
+            if (response == JOptionPane.YES_OPTION) {
+                try {
+                    updatePayrollRecords();
+                } catch (Exception ex) {
+                    Logger.getLogger(PayrollProcessing.class.getName()).log(Level.SEVERE, null, ex);
                 }
             }
-        } catch (CsvException ex) {
-            Logger.getLogger(PayrollProcessing.class.getName()).log(Level.SEVERE, null, ex);
         }
+    } catch (Exception ex) {
+        Logger.getLogger(PayrollProcessing.class.getName()).log(Level.SEVERE, null, ex);
+    }
+
     }//GEN-LAST:event_jButtonAddtoRecordsActionPerformed
 
     private void jButtonCompute1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonCompute1ActionPerformed
-        // TODO add your handling code here:
-        int searchIndex = matchWorkedHours();
-        String workedHours = employeeData.get(searchIndex).getNoOfHoursWorked();
-        jTextFieldWorkedHours.setText(workedHours);
+     // First try to find an existing record
+    String searchId = jTextFieldEmployeeNum.getText();
+    String searchMonth = jComboBoxCoveredMonth.getSelectedItem().toString();
+    String searchYear = jComboBoxCoveredYear.getSelectedItem().toString();
+    
+    boolean recordFound = false;
+    
+    try {
+        // Load existing payroll records
+        String csvFile = "PayrollRecords.csv";
+        List<String[]> records = FileHandling.readCSV(csvFile);
+        
+        // Skip header if it exists
+        if (records.size() > 0 && records.get(0)[0].equals("Employee No.")) {
+            records.remove(0);
+        }
+        
+        // Search for a matching record
+        for (String[] record : records) {
+            if (record[0].equals(searchId) && 
+                record[11].equals(searchMonth) && 
+                record[12].equals(searchYear)) {
+                
+                // Found a matching record, display it
+                jTextFieldWorkedHours.setText(record[3]);
+                jTextFieldBasicSalary.setText(record[4]);
+                jTextFieldHourlyRate.setText(record[5]);
+                jTextFieldGrossIncome.setText(record[6]);
+                jTextSssDeduction.setText(record[7]);
+                jTextFieldPhilHealthDeduction.setText(record[8]);
+                jTextFieldPagibigDeduction.setText(record[9]);
+                jTextFieldWHT.setText(record[10]);
+                jTextFieldGrossIncome_S.setText(record[6]);
+                jTextFieldBenefits.setText(record[13]);
+                jTextFieldTotalDeductions.setText(record[14]);
+                jTextFieldTakeHomePay.setText(record[15]);
+                
+                recordFound = true;
+                break;
+            }
+        }
+        
+        // If no record was found, compute a new one
+        if (!recordFound) {
+            int searchIndex = matchWorkedHours();
+            if (searchIndex >= 0) {
+                String workedHours = employeeData.get(searchIndex).getNoOfHoursWorked();
+                jTextFieldWorkedHours.setText(workedHours);
+                processPayroll();
+            }
+        }
+        
+    } catch (Exception e) {
+        JOptionPane.showMessageDialog(null, "Error processing payroll records: " + e.getMessage());
+    }
 
-        processPayroll();
+
     }//GEN-LAST:event_jButtonCompute1ActionPerformed
 
     private void jButtonPayrollSummaryActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonPayrollSummaryActionPerformed
