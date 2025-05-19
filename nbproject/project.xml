@@ -3,7 +3,8 @@
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
-            <name>OOP_Crud_PayrollSystem</name>
+            <name>AOOP_T3_PayrollSystem</name>
+            <explicit-platform explicit-source-supported="true"/>
             <source-roots>
                 <root id="src.dir"/>
             </source-roots>
