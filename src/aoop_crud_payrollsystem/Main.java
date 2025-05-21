@@ -13,8 +13,6 @@ import java.io.IOException;
  */
 public class Main {
     public static void main(String args[]) throws FileNotFoundException, IOException, CsvException {
-        // You can add any system properties here if needed
-        // System.setProperty("java.util.Arrays.useLegacyMergeSort", "true");
         
         new LoginManager().setVisible(true);
     }

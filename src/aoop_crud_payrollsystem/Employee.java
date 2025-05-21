@@ -8,6 +8,8 @@ package aoop_crud_payrollsystem;
  *
  * @author Sylani
  */
+
+//BLUEPRINT(What information this payroll system should have)
 public class Employee {
     // Attributes
     private String employeeNumber;
@@ -50,6 +52,9 @@ public class Employee {
     }
 
     // Getters and Setters
+    //Setters (like setFirstName("Juan")) allow us to assign values to an object's fields.
+    //Getters (like getFirstName()) allow us to read those values.
+    
     public String getEmployeeNumber() {
         return employeeNumber;
     }

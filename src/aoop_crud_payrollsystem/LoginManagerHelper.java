@@ -21,6 +21,7 @@ import javax.swing.text.JTextComponent;
  *
  * @author Sylani
  */
+//removes UI logic from the LoginManager class, to keep the code organized and easier to maintain.
 public class LoginManagerHelper {
     
         private static final Logger LOGGER = Logger.getLogger(LoginManagerHelper.class.getName());

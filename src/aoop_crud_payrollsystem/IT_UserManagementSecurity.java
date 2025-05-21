@@ -1060,7 +1060,7 @@ private void addComponents(Container container, List<Component> componentList) {
                 jButtonClearActionPerformed(evt);
             }
         });
-        jPanel4.add(jButtonClear, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 10, 150, 22));
+        jPanel4.add(jButtonClear, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 50, 160, 40));
 
         jButtonProfileAdd.setText("ADD");
         jButtonProfileAdd.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1069,7 +1069,7 @@ private void addComponents(Container container, List<Component> componentList) {
                 jButtonProfileAddActionPerformed(evt);
             }
         });
-        jPanel4.add(jButtonProfileAdd, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 70, 150, 22));
+        jPanel4.add(jButtonProfileAdd, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 160, 160, 40));
 
         jButtonProfileUpdate.setText("UPDATE");
         jButtonProfileUpdate.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1078,7 +1078,7 @@ private void addComponents(Container container, List<Component> componentList) {
                 jButtonProfileUpdateActionPerformed(evt);
             }
         });
-        jPanel4.add(jButtonProfileUpdate, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 40, 150, 22));
+        jPanel4.add(jButtonProfileUpdate, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 110, 160, 40));
 
         jButtonProfileDelete.setText("DELETE");
         jButtonProfileDelete.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1087,7 +1087,7 @@ private void addComponents(Container container, List<Component> componentList) {
                 jButtonProfileDeleteActionPerformed(evt);
             }
         });
-        jPanel4.add(jButtonProfileDelete, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 100, 150, 22));
+        jPanel4.add(jButtonProfileDelete, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 220, 160, 40));
 
         jButtonUpdateDBS.setText("UPDATE DATABASE");
         jButtonUpdateDBS.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1096,7 +1096,7 @@ private void addComponents(Container container, List<Component> componentList) {
                 jButtonUpdateDBSActionPerformed(evt);
             }
         });
-        jPanel4.add(jButtonUpdateDBS, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 210, 150, 22));
+        jPanel4.add(jButtonUpdateDBS, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 380, 170, 40));
 
         jButtonViewEmployee.setText("VIEW EMPLOYEE");
         jButtonViewEmployee.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1105,7 +1105,7 @@ private void addComponents(Container container, List<Component> componentList) {
                 jButtonViewEmployeeActionPerformed(evt);
             }
         });
-        jPanel4.add(jButtonViewEmployee, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 240, 150, 22));
+        jPanel4.add(jButtonViewEmployee, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 440, 170, 40));
 
         jButtonSave.setText("SAVE");
         jButtonSave.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -1114,7 +1114,7 @@ private void addComponents(Container container, List<Component> componentList) {
                 jButtonSaveActionPerformed(evt);
             }
         });
-        jPanel4.add(jButtonSave, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 180, 150, 22));
+        jPanel4.add(jButtonSave, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 320, 170, 40));
 
         RESET.setText("RESET ATTEMPTS");
         RESET.addActionListener(new java.awt.event.ActionListener() {
@@ -1122,7 +1122,7 @@ private void addComponents(Container container, List<Component> componentList) {
                 RESETActionPerformed(evt);
             }
         });
-        jPanel4.add(RESET, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 630, 147, -1));
+        jPanel4.add(RESET, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 603, 170, 40));
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);

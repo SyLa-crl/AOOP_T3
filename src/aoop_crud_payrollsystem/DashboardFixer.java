@@ -6,8 +6,8 @@ package aoop_crud_payrollsystem;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import javax.swing.SwingUtilities;
-import java.io.IOException;
-import com.opencsv.exceptions.CsvException;
+//import java.io.IOException;
+//import com.opencsv.exceptions.CsvException;
 import java.awt.HeadlessException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -15,6 +15,7 @@ import java.util.logging.Logger;
  *
  * @author Sylani
  */
+//Centralized control that handles all logic for determining which dashboard to load based on the user's role.
 public class DashboardFixer {
      private static final Logger LOGGER = Logger.getLogger(DashboardFixer.class.getName());
     
